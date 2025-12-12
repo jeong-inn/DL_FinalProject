@@ -1,0 +1,476 @@
+@UTF8
+@PID:	11312/c-00036143-1
+@Begin
+@Languages:	eng
+@Participants:	EXA Investigator, CHI Target_Child
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@ID:	eng|ENNI|CHI|6;08.24|female|SLI||Target_Child|||
+@Media:	679, audio
+@Comment:	Birth of CHI is 24-APR-1995
+@Date:	20-JAN-2002
+@Tape Location:	Disk M12, Track 12
+@Types:	cross, narrative, SLI
+*EXA:	my recorder on .
+%mor:	pron|my-Prs-Gen-S1 noun|recorder adp|on .
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*EXA:	so can you tell me this story please ?
+%mor:	adv|so aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc intj|please ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|DISCOURSE 9|4|PUNCT
+*CHI:	a boy is going to the store . 6004_9890
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|to det|the-Def-Art noun|store .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	a 6004_6024 boy 6024_6405 is 6785_6966 going 7226_7727 to 8088_8308 the 9110_9210 store 9390_9890 .
+*EXA:	okay . 10013_10431
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 10013_10431 .
+*CHI:	the boy is gonna buy some cookies . 12535_16641
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 part|go verb|buy-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	the 12535_12675 boy 12675_12975 is 13496_13677 gonna 13817_14178 buy 15019_15420 some 15700_15981 cookies 16141_16641 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he wants to get some cookies . 19768_23013
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	he 19768_19908 wants 20289_20970 to 21190_21350 get 21511_21791 some 22072_22392 cookies 22513_23013 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and he dropped all the cookies . 25895_28989
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|drop-Fin-Ind-Past-S3 det|all-Def-Tot det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	and 25895_26015 he 26216_26357 dropped 27101_27604 all 27885_28046 the 28167_28268 cookies 28489_28989 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and [/] &-um &+co and &-um the [/] the person that works at the store . 32295_45423
+%mor:	cconj|and det|the-Def-Art noun|person pron|that-Rel verb|work-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|store .
+%gra:	1|3|CC 2|3|DET 3|8|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	and 32295_32455 um 32635_33936 and 34036_34456 um 34516_34736 the 35116_35237 the 42301_42401 person 42762_43302 that 43402_43582 works 43742_44163 at 44423_44543 the 44683_44763 store 44923_45423 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	was very very mad . 46765_49008
+%mor:	aux|be-Fin-Ind-Past-S3-irr adv|very adv|very adj|mad-S1 .
+%gra:	1|4|COP 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	was 46765_46865 very 46985_47546 very 47787_48288 mad 48508_49008 .
+*EXA:	&~ooh .
+@G:	B1
+*EXA:	okay tell me this story . 49310_51674
+%mor:	intj|okay verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	okay 49310_50393 tell 50433_50633 me 50653_50733 this 50733_51134 story 51174_51674 .
+*CHI:	&-um a dog and a rabbit is talking together . 54945_63735
+%mor:	det|a-Ind-Art noun|dog cconj|and det|a-Ind-Art noun|rabbit aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S adv|together .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%wor:	um 54945_55105 a 57448_57468 dog 57788_58269 and 58609_58870 a 59330_59350 rabbit 60111_60652 is 60952_61173 talking 62294_63055 together 63235_63735 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	they're making a sandcastle together . 66299_69503
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|make-Part-Pres-S det|a-Ind-Art noun|sandcastle-Acc adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	they're 66299_66540 making 67361_67781 a 67861_67881 sandcastle 68042_68883 together 69003_69503 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and they put sand on top of the sandcastle . 72745_77712
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|put-Fin-Ind-Past-P3-irr noun|sand-Acc adp|on noun|top adp|of det|the-Def-Art noun|sandcastle .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+%wor:	and 72745_72925 they 74468_74648 put 74928_75169 sand 75329_75750 on 76291_76391 top 76491_76752 of 76832_76932 the 76992_77092 sandcastle 77212_77712 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and [/] and it got smashed . 80118_82401
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|get-Fin-Ind-Past-S3-irr verb|smash-Part-Past-S .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%wor:	and 80118_80378 and 81220_81340 it 81380_81480 got 81640_81881 smashed 81901_82401 .
+*EXA:	oh . 82984_83382
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 82984_83382 .
+*CHI:	and then the dog was trying to get it back together . 85445_94492
+%mor:	cconj|and adv|then det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|try-Part-Pres-S part|to verb|get-Inf-S pron|it-Prs-Acc-S3 adv|back adv|together .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|11|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|8|ADVMOD 11|8|ADVMOD 12|6|PUNCT
+%wor:	and 85445_85565 then 85665_85925 the 87166_87286 dog 90469_90990 was 91030_91210 trying 91570_92031 to 92111_92191 get 92311_92531 it 92891_92971 back 93092_93352 together 93992_94492 .
+*EXA:	mm . 94694_95193
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mm 94694_95193 .
+@G:	B2
+*EXA:	okay tell me this one please . 101449_104896
+%mor:	intj|okay verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|one-Acc intj|please .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|DISCOURSE 7|2|PUNCT
+%wor:	okay 101449_102311 tell 102391_102832 me 102832_102872 this 103314_103715 one 103795_104296 please 104396_104896 .
+*CHI:	&-um &+shh he is meeting a new friend . 104999_107382
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|meet-Part-Pres-S det|a-Ind-Art adj|new-S1 noun|friend-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	um 104999_105038 he 105318_105479 is 105659_105699 meeting 105920_106381 a 106421_106441 new 106561_106742 friend 106882_107382 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and they [//] they're going to have a picnic together . 111515_114982
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S part|to verb|have-Inf-S det|a-Ind-Art noun|picnic-Acc adv|together .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|4|PUNCT
+%wor:	and 111515_111635 they 111695_111855 they're 112778_112978 going 113038_113259 to 113259_113319 have 113419_113680 a 113720_113740 picnic 113861_114362 together 114482_114982 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then they got tummyache . 117632_118914
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr noun|tummyache-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	and 117632_117771 then 117831_118031 they 118111_118232 got 118312_118472 tummyache 118553_118914 .
+*CHI:	<one was> [//] &-um the rabbit was sick . 123015_127019
+%mor:	det|the-Def-Art noun|rabbit aux|be-Fin-Ind-Past-S3-irr adj|sick-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	one 123015_123075 was 123115_123335 um 124256_124417 the 125077_125198 rabbit 125738_126159 was 126239_126399 sick 126519_127019 .
+*CHI:	and the dog wasn't sick . 126880_128602
+%mor:	cconj|and det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr~part|not adj|sick-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 126880_126960 the 127000_127080 dog 127160_127361 wasn't 127521_127941 sick 128102_128602 .
+*CHI:	<and there> [/] &+s and there was a lady . 132308_136574
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lady .
+%gra:	1|3|CC 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	and 132308_133469 there 133770_134210 and 135192_135372 there 135432_135612 was 135652_135812 a 135913_135933 lady 136093_136574 .
+*CHI:	and the dog was trying to talk to the lady . 137635_142161
+%mor:	cconj|and det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr verb|try-Part-Pres-S part|to verb|talk-Inf-S adp|to det|the-Def-Art noun|lady .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+%wor:	and 137635_137815 the 137935_138035 dog 138235_138576 was 138756_138916 trying 139037_139357 to 139417_139497 talk 139638_140078 to 140499_140619 the 141420_141520 lady 141661_142161 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and she was pulling the lady to the rabbit . 145347_150293
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|pull-Part-Pres-S det|the-Def-Art noun|lady-Acc adp|to det|the-Def-Art noun|rabbit .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 145347_145546 she 145707_145867 was 145987_146147 pulling 146328_146868 the 147069_147169 lady 147770_148210 to 149352_149472 the 149592_149693 rabbit 149793_150293 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and they were checking her . 153375_155676
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|check-Part-Pres-S pron|her-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	and 153375_153475 they 153515_153655 were 153735_153895 checking 154315_155016 her 155176_155676 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then she went with the doctor . 158799_163961
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|with det|the-Def-Art noun|doctor .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 158799_158938 then 159018_159198 she 159458_159618 went 162100_162440 with 162780_163001 the 163201_163321 doctor 163461_163961 .
+*EXA:	hm good . 165343_165362
+%mor:	intj|hm adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	hm good 165343_165362 .
+@G:	B3
+*EXA:	and before we start I forgot to say to the tape recorder your name . 169385_173211
+%mor:	cconj|and sconj|before pron|we-Prs-Nom-P1 verb|start-Fin-Ind-Pres-P1 pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1-irr part|to verb|say-Inf-S adp|to det|the-Def-Art noun|tape noun|recorder pron|your-Prs-Gen-S2 noun|name-Acc .
+%gra:	1|6|CC 2|4|MARK 3|4|NSUBJ 4|6|ADVCL 5|6|NSUBJ 6|14|ROOT 7|8|MARK 8|6|XCOMP 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|OBL 13|14|NMOD-POSS 14|8|OBJ 15|6|PUNCT
+%wor:	and 169385_169465 before 169505_169825 we 169846_169906 start 169986_170407 I 170647_170667 forgot 170707_171048 to 171088_171148 say 171248_171409 to 171469_171549 the 171609_171689 tape 171749_171990 recorder 171990_172351 your 172391_172611 name 172711_173211 .
+*EXA:	that this is Firstname Lastname at SchoolnameB . 173253_175676
+%mor:	sconj|that pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|firstname-S1 propn|Lastname adp|at propn|SchoolnameB .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+%wor:	that 173253_173373 this 173433_173573 is 173613_173693 Firstname 173914_174575 Lastname 174615_174916 at 175016_175116 SchoolnameB 175176_175676 .
+*EXA:	right okay . 175979_177540
+%mor:	adv|right intj|okay .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	right 175979_176259 okay 177040_177540 .
+*EXA:	can you tell me this story ? 177382_178642
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	can 177382_177501 you 177521_177601 tell 177641_177802 me 177822_177882 this 177942_178082 story 178142_178642 ?
+*CHI:	&-um there's the [/] the dog and the rabbit . 181306_186909
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dog cconj|and det|the-Def-Art noun|rabbit .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+%wor:	um 181306_181726 there's 181726_182146 the 182827_182927 the 184588_184688 dog 184928_185469 and 185949_186089 the 186149_186229 rabbit 186409_186909 .
+*CHI:	&+m the dog got a balloon . 188351_190072
+%mor:	det|the-Def-Art noun|dog verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 188351_188431 dog 188571_188931 got 189051_189312 a 189432_189452 balloon 189572_190072 .
+*EXA:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and the rabbit want a balloon . 192835_195736
+%mor:	cconj|and det|the-Def-Art noun|rabbit verb|want-Fin-Ind-Pres-P3 det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 192835_193054 the 193195_193295 rabbit 193455_193975 want 194476_194836 a 195096_195116 balloon 195236_195736 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and <he was> [//] she [//] the rabbit was untying it . 198400_204204
+%mor:	cconj|and det|the-Def-Art noun|rabbit aux|be-Fin-Ind-Past-S3-irr verb|unty-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 198400_198540 he 198960_199060 was 199200_199441 she 201082_201202 the 201683_201763 rabbit 201883_202303 was 202363_202564 untying 202744_203645 it 203705_204204 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then it flew in the air . 205925_208429
+%mor:	cconj|and adv|then pron|it-Prs-Nom-S3 verb|fly-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|air .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 205925_206047 then 206107_206307 it 206528_206628 flew 206828_207168 in 207469_207549 the 207609_207709 air 207929_208429 .
+*EXA:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and the dog was very angry . 210939_213401
+%mor:	cconj|and det|the-Def-Art noun|dog aux|be-Fin-Ind-Past-S3-irr adv|very adj|angry-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 210939_211079 the 211179_211279 dog 211559_211920 was 211980_212140 very 212260_212601 angry 212901_213401 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<and then they went to go> [//] <and then I saw> [//] and the rabbit and the dog saw a balloon man . 215665_223296
+%mor:	cconj|and det|the-Def-Art noun|rabbit cconj|and det|the-Def-Art noun|dog verb|see-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|balloon noun|man-Acc .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|10|ROOT 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|7|PUNCT
+%wor:	and 215665_215786 then 215886_216126 they 216246_216406 went 216507_216727 to 216807_216867 go 216927_217007 and 217047_217108 then 217768_217989 I 218249_218269 saw 218409_218590 and 219311_219491 the 219972_220072 rabbit 220192_220593 and 220713_220813 the 220853_220913 dog 220973_221254 saw 221354_221494 a 221674_221694 balloon 221814_222716 man 222796_223296 .
+*CHI:	and the rabbit want a balloon . 224841_226882
+%mor:	cconj|and det|the-Def-Art noun|rabbit verb|want-Fin-Ind-Pres-P3 det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 224841_224981 the 225081_225181 rabbit 225321_225742 want 225802_226102 a 226242_226262 balloon 226382_226882 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and [/] and he said +"/. 230305_233369
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 230305_230527 and 231989_232149 he 232189_232249 said 232890_233369 +"/.
+*CHI:	+" do you have any money ? 233811_235393
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|any-Def-Ind noun|money-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	do 233811_233891 you 233952_234052 have 234252_234552 any 234652_234752 money 234893_235393 ?
+*CHI:	and he said no . 235374_237275
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr intj|no .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%wor:	and 235374_235533 he 236274_236354 said 236475_236695 no 236775_237275 .
+*EXA:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	so they couldn't get a balloon . 240002_241563
+%mor:	adv|so pron|they-Prs-Nom-P3 aux|could-Fin-S~part|not verb|get-Inf-S det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	so 240002_240082 they 240202_240342 couldn't 240422_240702 get 240742_240842 a 240862_240882 balloon 241063_241563 .
+*CHI:	<so they were> [//] so they went to the lady and got a balloon . 244605_250531
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|to det|the-Def-Art noun|lady cconj|and verb|get-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CC 8|3|CONJ 9|10|DET 10|8|OBJ 11|3|PUNCT
+%wor:	so 244605_244646 they 244986_245166 were 245267_245547 so 246648_246748 they 246828_246988 went 247068_247308 to 247409_247569 the 247669_247769 lady 247929_248470 and 249470_249571 got 249651_249951 a 249971_249991 balloon 250031_250531 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<and she said could I> [//] and the rabbit said +"/. 253376_257801
+%mor:	cconj|and det|the-Def-Art noun|rabbit verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 253376_253556 she 253916_254057 said 254237_254517 could 254918_255098 I 255418_255438 and 256400_256520 the 256540_256620 rabbit 256700_257181 said 257301_257801 +"/.
+*CHI:	+" could I have some money ? 257622_259724
+%mor:	aux|could-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def-Ind noun|money-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	could 257622_257762 I 257922_257942 have 258022_258282 some 258443_258703 money 259224_259724 ?
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and they gived [: gave] [* m:=ed] it to the balloon man . 263335_266596
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|give-Fin-Ind-Past-P3-irr pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|balloon noun|man .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+%wor:	and 263335_263410 they 264551_264671 gave 264732_264952 it 265092_265172 to 265252_265332 the 265413_265493 balloon 265593_265993 man 266114_266596 .
+*CHI:	and then they got a balloon . 266337_268217
+%mor:	cconj|and adv|then pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 266337_266414 then 267215_267375 they 267415_267516 got 267536_267696 a 267716_267736 balloon 267736_268217 .
+*EXA:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and they were happy then . 271440_273220
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adj|happy-S1 adv|then .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 271440_271580 they 271620_271780 were 271840_272020 happy 272120_272560 then 272720_273220 .
+*EXA:	great good job . 273642_276903
+%mor:	adj|great-S1 adj|good-S1 noun|job .
+%gra:	1|3|AMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	great 273642_273921 good 276283_276403 job 276403_276903 .
+@G:	A1
+*EXA:	okay . 276584_277083
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 276584_277083 .
+*CHI:	&-um elephant and the giraffe wanna go in the water [!] . 279986_284112
+%mor:	noun|elephant cconj|and det|the-Def-Art noun|giraffe aux|wanna-Fin-Ind-S3 verb|go-Inf-S adp|in det|the-Def-Art noun|water .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|DET 4|1|CONJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	um 279986_280627 elephant 280848_281549 and 281609_281769 the 281769_281849 giraffe 281929_282330 wanna 282390_282711 go 282791_282871 in 282951_283011 the 283472_283552 water 283612_284112 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then the balloon went in the water [!] . 286940_289001
+%mor:	cconj|and adv|then det|the-Def-Art noun|balloon verb|go-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|water .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 286940_287099 then 287179_287339 the 287419_287499 balloon 287580_287960 went 288060_288321 in 288321_288361 the 288361_288441 water 288501_289001 .
+*EXA:	oh . 288743_289242
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 288743_289242 .
+*CHI:	and then the giraffe went to swim and get the balloon . 290925_294900
+%mor:	cconj|and adv|then det|the-Def-Art noun|giraffe verb|go-Fin-Ind-Past-S3-irr part|to verb|swim-Inf-S cconj|and verb|get-Inf-S det|the-Def-Art noun|balloon-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|5|PUNCT
+%wor:	and 290925_291025 then 291105_291326 the 292110_292190 giraffe 292271_292733 went 292853_293014 to 293054_293135 swim 293275_293737 and 293918_294019 get 294059_294199 the 294260_294320 balloon 294400_294900 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then <the giraffe said thank you to the> [//] &-uh the &-uh elephant said thank you to the giraffe . 297665_310903
+%mor:	cconj|and adv|then det|the-Def-Art noun|elephant verb|say-Fin-Ind-Past-S3-irr verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|to det|the-Def-Art noun|giraffe .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|5|XCOMP 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+%wor:	and 297665_297785 then 298546_298746 the 299748_299828 giraffe 299928_300328 said 300408_300609 thank 301690_301971 you 302011_303132 to 303433_304755 the 305636_305756 uh 308120_308160 the 308160_308220 uh 308220_308300 elephant 308300_308640 said 308740_309021 thank 309261_309602 you 309662_309722 to 309922_310062 the 310202_310303 giraffe 310403_310903 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and he said +"/. 313685_314405
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	and 313685_313825 he 313825_313865 said 313905_314405 +"/.
+*CHI:	+" I am not going to get the [/] &+balloo &+wa &-um the &-um ball in the water . 314125_323934
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|not verb|go-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|ball-Acc adp|in det|the-Def-Art noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|4|PUNCT
+%wor:	I 314125_314145 am 314165_314285 not 314405_314705 going 314705_314866 to 314866_314906 get 315006_315266 the 315826_315947 um 317228_317388 the 317508_317608 um 319169_319349 ball 322873_323173 in 323233_323333 the 323373_323453 water 323553_323934 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	A2
+*EXA:	okay . 330786_331286
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 330786_331286 .
+*CHI:	&-um the giraffe and the elephant were looking at the water . 330927_340794
+%mor:	det|the-Def-Art noun|giraffe cconj|and det|the-Def-Art noun|elephant aux|be-Fin-Ind-Past-P3-irr verb|look-Part-Pres-S adp|at det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	um 330927_331066 the 332287_332367 giraffe 332507_333168 and 333968_334148 the 334309_334429 elephant 337411_338072 were 338312_338592 looking 339533_339913 at 339994_340094 the 340154_340234 water 340294_340794 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and she was starting to run . 342795_345739
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|start-Part-Pres-S part|to verb|run-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	and 342795_342956 she 343136_343276 was 343376_343637 starting 344357_344818 to 344878_344998 run 345258_345739 .
+*CHI:	and then she fall down and hurt herself . 347783_353591
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 adp|down cconj|and verb|hurt-Fin-Ind-Past-S3-irr pron|herself-Prs-Acc-reflx-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|7|OBJ 9|4|PUNCT
+%wor:	and 347783_347903 then 347963_348183 she 348424_348564 fall 348985_349285 down 349445_349846 and 352410_352551 hurt 352671_352971 herself 353091_353591 .
+*EXA:	oh . 354093_354294
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 354093_354294 .
+*CHI:	and then [/] then the lifeguard comed [: came] [* m:=ed] and looked at her knee . 356695_363939
+%mor:	cconj|and adv|then det|the-Def-Art noun|lifeguard verb|come-Fin-Ind-Past-S3-irr cconj|and verb|look-Fin-Ind-Past-S3 adp|at pron|her-Prs-Gen-S3 noun|knee .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|CC 7|5|CONJ 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|5|PUNCT
+%wor:	and 356695_356815 then 356935_357215 then 358636_358836 the 358916_359036 lifeguard 359456_360237 came 360697_361098 and 361138_361298 looked 362358_362699 at 362759_362859 her 363219_363379 knee 363439_363939 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then she start to cry . 366042_369563
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 verb|start-Fin-Ind-Pres-S3 part|to verb|cry-Inf-S .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	and 366042_366181 then 366281_366561 she 367842_368002 start 368283_368683 to 368783_369063 cry 369063_369563 .
+*CHI:	and then she put a bandage on . 372125_374247
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 verb|put-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bandage-Acc adp|on .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%wor:	and 372125_372205 then 372245_372425 she 372565_372685 put 372786_372946 a 372966_372986 bandage 373106_373527 on 373747_374247 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then <she said> [//] the lifeguard said +"/. 376573_380457
+%mor:	cconj|and adv|then det|the-Def-Art noun|lifeguard verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	and 376573_376692 then 376712_376892 she 377233_377353 said 377513_377753 the 379236_379316 lifeguard 379396_379897 said 379957_380457 +"/.
+*CHI:	+" look at this sign . 380299_381439
+%mor:	verb|look-Fin-Imp-S adp|at det|this-Def-Dem-Sing noun|sign .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	look 380299_380478 at 380538_380618 this 380658_380918 sign 380939_381439 .
+*CHI:	+" there's [//] it says no running . 381841_384083
+%mor:	pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 det|no-Def-Neg noun|running-Acc-Ger .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	there's 381841_382241 it 382601_382701 says 382741_383022 no 383182_383302 running 383583_384083 .
+*EXA:	oh good storytel(ling) . 386867_388208
+%mor:	intj|oh adj|good-S1 noun|storytelling-Ger .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	oh 386867_387068 good 387288_387568 storytel(ling) 387708_388208 .
+@G:	A3
+*EXA:	okay tell me this story . 389732_391012
+%mor:	intj|okay verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	okay 389732_389912 tell 390032_390192 me 390192_390252 this 390332_390492 story 390512_391012 .
+*CHI:	&-um the giraffe has a airplane . 391495_396340
+%mor:	det|the-Def-Art noun|giraffe verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|airplane-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	um 391495_391694 the 393276_393376 giraffe 394097_394678 has 394798_395059 a 395539_395559 airplane 395840_396340 .
+*CHI:	and they want to play with the airplane . 396461_398583
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|play-Inf-S adp|with det|the-Def-Art noun|airplane .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	and 396461_396561 they 396601_396701 want 396781_397081 to 397182_397262 play 397382_397622 with 397702_397822 the 397863_397923 airplane 398083_398583 .
+*CHI:	and they played with it . 401145_403087
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|play-Fin-Ind-Past-P3 adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	and 401145_401265 they 401345_401485 played 401625_402146 with 402326_402547 it 402587_403087 .
+*CHI:	<and she> [//] and the elephant grabbed it from the giraffe . 407055_412763
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|grab-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|from det|the-Def-Art noun|giraffe .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	and 407055_407214 she 407335_407535 and 408897_409138 the 409298_409418 elephant 410760_411221 grabbed 411281_411602 it 411642_411722 from 411782_411982 the 412022_412122 giraffe 412263_412763 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then it <goed [: went] [* m:=ed] into> [//] falled [: fell] [* m:=ed] in the water . 414585_418191
+%mor:	cconj|and adv|then pron|it-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	and 414585_414685 then 414725_414865 it 414945_415025 went 415627_415947 into 416007_416568 fell 417069_417290 in 417410_417490 the 417510_417590 water 417691_418191 .
+*EXA:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then the giraffe was very angry . 420557_423461
+%mor:	cconj|and adv|then det|the-Def-Art noun|giraffe aux|be-Fin-Ind-Past-S3-irr adv|very adj|angry-S1 .
+%gra:	1|7|CC 2|7|ADVMOD 3|4|DET 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%wor:	and 420557_420676 then 420796_421057 the 421297_421378 giraffe 421498_421919 was 421959_422119 very 422239_422480 angry 422961_423461 .
+*EXA:	yeah . 423442_423923
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 423442_423923 .
+*CHI:	and then a lifeguard camed [: came] [* m:++ed:i] &*EXA:mhm and said +"/. 426425_432893
+%mor:	cconj|and adv|then det|a-Ind-Art noun|lifeguard verb|come-Fin-Ind-Past-S3-irr cconj|and verb|say-Fin-Ind-Past-S3-irr +"/.
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|CC 7|5|CONJ 8|5|PUNCT
+%wor:	and 426425_426505 then 426525_426665 a 426745_426765 lifeguard 426865_427606 came 427686_428047 and 431091_431332 said 432393_432893 +"/.
+*CHI:	+" could you help me take this &-uh airplane out of the water ? 432794_439563
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|I-Prs-Acc-S1 verb|take-Inf-S det|this-Def-Dem-Sing noun|airplane-Acc adp|out adp|of det|the-Def-Art noun|water ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|11|CASE 9|11|CASE 10|11|DET 11|5|OBL 12|3|PUNCT
+%wor:	could 432794_433014 you 433054_433174 help 433495_433835 me 435397_435498 take 435798_436179 this 436379_436679 uh 437400_438141 airplane 438161_438602 out 438662_438722 of 438722_438802 the 438862_438963 water 439063_439563 ?
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and [/] and the lifeguard couldn't reach it . 441565_445070
+%mor:	cconj|and det|the-Def-Art noun|lifeguard aux|could-Fin-S~part|not verb|reach-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	and 441565_442326 and 442366_442466 the 442486_442566 lifeguard 442666_443247 couldn't 443648_444029 reach 444149_444490 it 444570_445070 .
+*CHI:	and then [/] then the giraffe started to cry . 446934_452723
+%mor:	cconj|and adv|then det|the-Def-Art noun|giraffe verb|start-Fin-Ind-Past-S3 part|to verb|cry-Inf-S .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	and 446934_447074 then 447154_447374 then 449839_450119 the 450219_450339 giraffe 451001_451461 started 451562_452002 to 452022_452082 cry 452223_452723 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then [/] then the lady went to get the airplane . 454965_461869
+%mor:	cconj|and adv|then det|the-Def-Art noun|lady verb|go-Fin-Ind-Past-S3-irr part|to verb|get-Inf-S det|the-Def-Art noun|airplane-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|9|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+%wor:	and 454965_455105 then 455105_455325 then 457987_458227 the 458347_458467 lady 458907_459228 went 459608_459848 to 460028_460188 get 460428_460649 the 460829_460949 airplane 461369_461869 .
+*CHI:	and she got it with a net . 465253_467774
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|with det|a-Ind-Art noun|net .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	and 465253_465392 she 465512_465672 got 466513_466693 it 466713_466793 with 466853_466933 a 466953_466973 net 467313_467774 .
+*CHI:	and then she said thank you to the lady the giraffe . 469995_473499
+%mor:	cconj|and adv|then pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|to det|the-Def-Art noun|lady det|the-Def-Art noun|giraffe .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|4|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|11|DET 11|9|APPOS 12|4|PUNCT
+%wor:	and 469995_470095 then 470135_470315 she 470555_470656 said 470776_470976 thank 471036_471297 you 471357_471457 to 471557_471677 the 471777_471857 lady 471998_472519 the 472799_472899 giraffe 472999_473499 .
+*EXA:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and then [/] then the elephant smiled at him . 476225_481934
+%mor:	cconj|and adv|then det|the-Def-Art noun|elephant verb|smile-Fin-Ind-Past-S3 adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and 476225_476345 then 476385_476605 then 477406_477627 the 477727_477847 elephant 479029_479530 smiled 479670_480772 at 481192_481353 him 481453_481934 .
+*EXA:	&=laughs good work . 484902_485399
+%mor:	adj|good-S1 noun|work .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	good 484902_485067 work 485171_485399 .
+@End

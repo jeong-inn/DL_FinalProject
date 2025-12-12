@@ -1,0 +1,326 @@
+@UTF8
+@PID:	11312/c-00036151-1
+@Begin
+@Languages:	eng
+@Participants:	EXA Investigator, CHI Target_Child
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@ID:	eng|ENNI|CHI|7;08.12|male|SLI||Target_Child|||
+@Media:	731, audio
+@Comment:	Birth of CHI is 14-AUG-1992
+@Date:	26-APR-2000
+@Tape Location:	Disk L13 Track 12
+@Types:	cross, narrative, SLI
+*EXA:	okay Firstname go ahead and tell me the story that you see . 135_3079
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|12|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|3|PUNCT
+%wor:	okay 135_295 Firstname 295_876 go 876_956 ahead 1036_1296 and 1317_1397 tell 1457_1637 me 1657_1717 the 1757_1837 story 1918_2178 that 2238_2338 you 2398_2478 see 2579_3079 .
+*CHI:	a man go in a: shop . 4603_11473
+%mor:	det|a-Ind-Art noun|man verb|go-Fin-Imp-S adp|in det|a-Ind-Art noun|shop .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	a 4603_4622 man 4822_5243 go 7126_7226 in 7587_7707 a 7988_8008 shop 10973_11473 .
+*CHI:	and buy cookie . 14715_15815
+%mor:	cconj|and verb|buy-Fin-Imp-S noun|cookie-Acc .
+%gra:	1|2|CC 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	and 14715_14855 buy 14955_15195 cookie 15315_15815 .
+*CHI:	and him want one . 19438_22579
+%mor:	cconj|and pron|he-Prs-Acc-S3 verb|want-Inf-S num|one .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and 19438_19938 him 20758_21038 want 21559_21819 one 22079_22579 .
+*CHI:	and all fall down . 26603_29683
+%mor:	cconj|and det|all-Def-Tot verb|fall-Fin-Ind-Pres-S3 adp|down .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	and 26603_26742 all 28303_28503 fall 28743_29003 down 29183_29683 .
+*CHI:	an:d &+fa [//] man &+s [//] man [!] . 33465_43822
+%mor:	cconj|and noun|man noun|man .
+%gra:	1|3|CC 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	and 33465_33545 &+fa 33545_34366 man 37832_38273 &+s 38273_43322 man 43322_43822 .
+*CHI:	puppy . 43504_44003
+%mor:	noun|puppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	puppy 43504_44003 .
+*EXA:	the end .
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@G:	B1
+*EXA:	okay Firstname go ahead and tell me the story . 50916_53137
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	okay 50916_51176 Firstname 51256_51617 go 51617_51697 ahead 51737_51977 and 51997_52097 tell 52117_52237 me 52317_52397 the 52437_52537 story 52637_53137 .
+*CHI:	have two rabbit . 53859_57420
+%mor:	verb|have-Fin-Imp-S num|two noun|rabbit-Acc .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|OBJ 4|1|PUNCT
+%wor:	have 53859_54138 two 54559_55059 rabbit 56920_57420 .
+*CHI:	and &-uh play sand . 59342_62223
+%mor:	cconj|and verb|play-Fin-Imp-S noun|sand-Acc .
+%gra:	1|2|CC 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	and 59342_59482 uh 59882_60202 play 60622_61283 sand 61723_62223 .
+*CHI:	and one have pail . 64665_68169
+%mor:	cconj|and num|one aux|have-Fin-Ind-Pres-P3 noun|pail .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	and 64665_64765 one 65626_65886 have 67068_67368 pail 67669_68169 .
+*CHI:	and one <have a> [//] make a sandcastle . 68230_70432
+%mor:	cconj|and num|one verb|make-Fin-Ind-Pres-P3 det|a-Ind-Art noun|sandcastle-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 68230_68369 one 68670_68830 have 68890_69391 a 69491_69511 make 69511_69912 a 69912_69932 sandcastle 69932_70432 .
+*CHI:	and the [//] one rabbit throw a sand on the castle . 75065_81853
+%mor:	cconj|and num|one noun|rabbit verb|throw-Fin-Ind-Pres-S det|a-Ind-Art noun|sand-Acc adp|on det|the-Def-Art noun|castle .
+%gra:	1|4|CC 2|3|NUMMOD 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	and 75065_75265 the 75826_75946 one 77348_77548 rabbit 78229_78770 throw 79110_79411 a 79771_79791 sand 80011_80372 on 80532_80692 the 81213_81273 castle 81353_81853 .
+*CHI:	and the other [?] rabbit sad . 85920_88783
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|rabbit adj|sad-S1 .
+%gra:	1|5|CC 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%wor:	and 85920_86100 the 86220_86340 other 86981_87281 rabbit 87362_87842 sad 88283_88783 .
+*CHI:	and the rabbit is crying . 93925_97790
+%mor:	cconj|and det|the-Def-Art noun|rabbit aux|be-Fin-Ind-Pres-S3 verb|cry-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 93925_94045 the 95066_95227 rabbit 96028_96569 is 96869_97110 crying 97290_97790 .
+*EXA:	all done .
+%mor:	det|all-Def-Tot verb|do-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+@G:	B2
+*EXA:	okay Firstname go ahead and tell me this story . 103481_105664
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	okay 103481_103740 Firstname 103760_104181 go 104181_104241 ahead 104301_104542 and 104562_104642 tell 104682_104862 me 104902_104962 this 105022_105123 story 105183_105664 .
+*CHI:	have [//] a rabbit have a picnic . 106615_109918
+%mor:	det|a-Ind-Art noun|rabbit verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|picnic-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	have 106615_107576 a 107616_107636 rabbit 107716_108096 have 108277_108697 a 108877_108897 picnic 109418_109918 .
+*CHI:	and <all &+rab have> [//] the rabbit have a carrot and hot dog a bun . 113404_121234
+%mor:	cconj|and det|the-Def-Art noun|rabbit verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|carrot-Acc cconj|and adj|hot-S1 noun|dog det|a-Ind-Art noun|bun .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|11|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|AMOD 9|6|CONJ 10|11|DET 11|6|APPOS 12|4|PUNCT
+%wor:	and all &+rab 113404_116087 have 116087_116487 the 116487_116547 rabbit 116547_117068 have 117208_117589 a 117909_117929 carrot 119091_119531 and 119631_119772 hot 119872_120092 dog 120172_120593 a 120953_120973 bun 121073_121234 .
+*CHI:	and a [//] the rabbit is full . 124265_127969
+%mor:	cconj|and det|the-Def-Art noun|rabbit aux|be-Fin-Ind-Pres-S3 adj|full-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 124265_124405 a 124745_124765 the 125466_125586 rabbit 126067_126608 is 126928_127149 full 127469_127969 .
+*CHI:	and him hits these [//] these xxx . 131656_135781
+%mor:	cconj|and pron|he-Prs-Acc-S3 verb|hit-Fin-Ind-Pres-S3 pron|this-Dem-P1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	and 131656_131876 him 132196_132417 hits 132917_133398 these 133658_135141 these 135281_135781 .
+*CHI:	yeah . 136122_136483
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah 136122_136483 .
+*CHI:	and him have another rabbit . 141915_145982
+%mor:	cconj|and pron|he-Prs-Acc-S3 verb|have-Inf-S det|another-Def-Ind noun|rabbit-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 141915_142115 him 142195_142496 have 142857_144661 another 144901_145462 rabbit 145482_145982 .
+*CHI:	a doc(t)or coming .
+%mor:	det|a-Ind-Art noun|doctor verb|come-Ger-S .
+%gra:	1|2|DET 2|3|ROOT 3|2|ACL 4|2|PUNCT
+*CHI:	and the other rabbit pulled him on . 154065_158250
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|rabbit verb|pull-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|on .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+%wor:	and 154065_154205 the 154345_154545 other 154545_155166 rabbit 155226_156187 pulled 156448_157289 him 157409_157609 on 157890_158250 .
+*CHI:	and the doc(t)or &+ss says +"/. 158270_168504
+%mor:	cconj|and det|the-Def-Art noun|doctor verb|say-Fin-Ind-Pres-S3 +"/.
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 158270_158330 the 158330_158390 doc(t)or 158390_168423 says 168423_168504 +"/.
+*EXA:	+" you want eat any more ? 172765_174046
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 verb|eat-Inf-S det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+%wor:	you 172765_172825 want 172825_172945 eat 172985_173105 any 173145_173466 more 173546_174046 ?
+*CHI:	and the doc(t)or come and take the other rabbit away . 173967_184343
+%mor:	cconj|and det|the-Def-Art noun|doctor verb|come-Fin-Ind-Pres-S3 cconj|and verb|take-Fin-Ind-Pres-S det|the-Def-Art adj|other-S1 noun|rabbit-Acc adv|away .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|CC 6|4|CONJ 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|ADVMOD 11|4|PUNCT
+%wor:	and 173967_174027 the 174227_174287 doc(t)or 174287_180217 come 180437_181178 and 181739_181899 take 182000_182300 the 182841_182921 other 182921_183162 rabbit 183222_183662 away 183843_184343 .
+*EXA:	the end .
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@G:	B3
+*EXA:	okay Firstname go ahead and tell me this story . 188905_191026
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	okay 188905_189005 Firstname 189005_189245 go 189485_189565 ahead 189605_189845 and 189865_189985 tell 189985_190165 me 190165_190205 this 190285_190486 story 190526_191026 .
+*CHI:	<have a> [//] &+b bunny have a balloon . 191667_195148
+%mor:	noun|bunny verb|have-Fin-Ind-S det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	have 191667_191926 a 192167_192187 bunny 193067_193407 have 193928_194208 a 194468_194488 balloon 194648_195148 .
+*CHI:	and the other [?] rabbit want one . 198512_202614
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|rabbit verb|want-Fin-Ind-Pres-P3 num|one .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	and 198512_198691 the 199752_199872 other 199972_200312 rabbit 200512_201012 want 201253_201533 one 202133_202614 .
+*CHI:	&+ha and the bunny tie this off . 205905_210568
+%mor:	cconj|and det|the-Def-Art noun|bunny verb|tie-Fin-S pron|this-Dem-S1 adp|off .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+%wor:	and 205905_206065 the 206405_206705 bunny 207486_207866 tie 208887_209347 this 209468_209768 off 210068_210568 .
+*CHI:	and the balloon flied [: flew] [* m:=ed] away . 213071_216453
+%mor:	cconj|and det|the-Def-Art noun|balloon verb|fly-Fin-Ind-Past-S3-irr adv|away .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	and 213071_213231 the 213911_214031 balloon 214572_214992 flew 215493_215933 away 215953_216453 .
+*CHI:	and all bunny is mad . 220015_224021
+%mor:	cconj|and det|all-Def-Tot noun|bunny aux|be-Fin-Ind-Pres-S3 adj|mad-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 220015_220876 all 220956_221718 bunny 222239_222619 is 223100_223301 mad 223521_224021 .
+*CHI:	and found a lot more [!] balloon . 227730_230434
+%mor:	cconj|and verb|find-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|lot adj|more-Cmp-S1 noun|balloon-Acc .
+%gra:	1|2|CC 2|6|ROOT 3|6|DET 4|5|OBL-UNMARKED 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+%wor:	and 227730_227869 found 228129_228570 a 228650_228670 lot 228831_229452 more 229792_230113 balloon 230133_230434 .
+*CHI:	and <have one> [//] want one . 234805_237903
+%mor:	cconj|and verb|want-Fin-Ind-Pres-S1 num|one .
+%gra:	1|2|CC 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	and 234805_234905 have 235247_235589 one 236354_236595 want 236977_237198 one 237420_237903 .
+*CHI:	have [//] want one for a other [?] bunny . 248345_252347
+%mor:	verb|want-Fin-Imp-Pres-S2 num|one adp|for det|a-Ind-Art adj|other-S1 noun|bunny .
+%gra:	1|6|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|AMOD 6|1|OBL 7|1|PUNCT
+%wor:	have 248345_249085 want 249886_250066 one 250086_250186 for 250946_251186 a 251186_251206 other 251206_251567 bunny 251847_252347 .
+*CHI:	have a [//] two bunny want one . 256671_261573
+%mor:	verb|have-Fin-Imp-S num|two noun|bunny-Acc verb|want-Fin-S num|one .
+%gra:	1|5|ROOT 2|3|NUMMOD 3|1|OBJ 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+%wor:	have 256671_256950 a 257471_257491 two 258251_258491 bunny 259072_259412 want 260553_260833 one 261073_261573 .
+*CHI:	and a [//] <the bunny> [//] the doc(t)or come . 266305_271973
+%mor:	cconj|and det|the-Def-Art noun|doctor verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 266305_266465 a 266685_266705 the 266885_267526 bunny 268628_269029 the 269850_269990 doc(t)or 270251_270912 come 271473_271973 .
+*CHI:	and the [/] the other [?] bunny &+w put a balloon . 275745_283609
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|bunny verb|put-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 275745_275845 the 276445_276585 the 276825_277265 other 278286_278686 bunny 278887_279247 put 282089_282409 a 282869_282889 balloon 283109_283609 .
+*CHI:	have [//] buy two . 287593_290874
+%mor:	verb|buy-Fin-Imp-S num|two .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	have 287593_287853 buy 289655_290015 two 290416_290874 .
+*CHI:	and all bunny have one . 295845_299927
+%mor:	cconj|and det|all-Def-Tot noun|bunny verb|have-Fin-Ind-Pres-P3 num|one .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	and 295845_296062 all 297263_297564 bunny 298385_298745 have 298925_299226 one 299446_299927 .
+*EXA:	the end .
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@G:	A1
+*EXA:	okay Firstname go ahead and tell me the stories that you see here . 305532_308675
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adv|here .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|13|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|12|ADVMOD 14|3|PUNCT
+%wor:	okay 305532_305672 Firstname 305672_306072 go 306172_306252 ahead 306292_306553 and 306593_306673 tell 306713_306913 me 306933_306993 the 307053_307133 stories 307213_307594 that 307614_307734 you 307774_307854 see 307974_308115 here 308175_308675 .
+*CHI:	<have a> [//] &+wwu elephant have a ball . 309775_315823
+%mor:	noun|elephant verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|ball-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	have 309775_310237 a 310237_310257 elephant 314021_314622 have 314702_315123 a 315123_315143 ball 315323_315823 .
+*CHI:	<and one ball> [//] and ball swimmin(g) pool . 318889_321574
+%mor:	cconj|and noun|ball noun|swim-Ger noun|pool .
+%gra:	1|4|CC 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	and 318889_319029 one 319309_319470 ball 319790_320050 and 320171_320291 ball 320351_320551 swimmin(g) 320651_321574 pool .
+*CHI:	and ball [//] cow &+ss get this . 324555_329223
+%mor:	cconj|and verb|cow-Fin-Imp-S verb|get-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|3|CC 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%wor:	and 324555_324677 ball 325338_325699 cow 326880_327201 get 328342_328583 this 328723_329223 .
+*CHI:	and ball [//] cow take this ball for elephant . 332695_340923
+%mor:	cconj|and verb|cow-Fin-Imp-S verb|take-Fin-Imp-S det|this-Def-Dem-Sing noun|ball-Acc adp|for noun|elephant .
+%gra:	1|3|CC 2|3|DISCOURSE 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	and 332695_332835 ball 333095_334917 cow 335357_335718 take 336939_337340 this 337500_337820 ball 338441_339402 for 339862_340103 elephant 340423_340923 .
+*CHI:	and &+eleph no , have a cow soaking wet . 345045_349891
+%mor:	cconj|and intj|no cm|cm verb|have-Fin-Imp-S det|a-Ind-Art noun|cow-Acc verb|soak-Ger-S adj|wet-S1 .
+%gra:	1|4|CC 2|4|DISCOURSE 3|2|PUNCT 4|8|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|7|XCOMP 9|4|PUNCT
+%wor:	and 345045_345425 no 346186_346286 , have 346807_347228 a 347228_347248 cow 348209_348550 soaking 348890_349271 wet 349391_349891 .
+@G:	A2
+*EXA:	okay Firstname go ahead and tell me the story . 356342_358463
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+%wor:	okay 356342_356521 Firstname 356521_356941 go 357001_357082 ahead 357122_357362 and 357382_357462 tell 357502_357662 me 357682_357742 the 357803_357883 story 357963_358463 .
+*CHI:	<have a> [//] have no runned [: ran] [* m:=ed] . 361817_364458
+%mor:	verb|have-Fin-Ind-Pres-S det|no-Def-Neg verb|run-Part-Past-S-irr .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	have 361817_362297 a 362557_362577 have 362577_363278 no 363558_363678 ran 363958_364458 .
+*CHI:	and him walked [//] got on the diving board . 368142_371544
+%mor:	cconj|and pron|he-Prs-Acc-S3 verb|get-Fin-Ind-Past-S3-irr adp|on det|the-Def-Art noun|diving-Ger noun|board .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+%wor:	and 368142_368281 him 368822_369042 walked 369622_370423 got 370643_370823 on 370843_370883 the 370883_370943 diving 370943_371143 board 371223_371544 .
+*CHI:	<and a> [//] and the elephant and the cow runned [: ran] [* m:=ed] . 376996_382334
+%mor:	cconj|and det|the-Def-Art noun|elephant cconj|and det|the-Def-Art noun|cow verb|run-Fin-Ind-Past-S3-irr .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|7|ROOT 8|7|PUNCT
+%wor:	and 376996_377257 a 377517_377537 and 378581_380969 the 381150_381270 elephant 381290_381711 and 381852_381992 the 382012_382073 cow 382073_382253 ran 382253_382334 .
+*CHI:	and him fall and get him leg . 387415_392617
+%mor:	cconj|and pron|he-Prs-Acc-S3 verb|fall-Inf-S cconj|and verb|get-Fin-Imp-S pron|he-Prs-Acc-S3 noun|leg-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|CC 5|3|CONJ 6|5|OBJ 7|5|OBJ 8|3|PUNCT
+%wor:	and 387415_388515 him 388515_388795 fall 390076_390496 and 390617_390777 get 391257_391597 him 391617_391797 leg 392117_392617 .
+*CHI:	and have a other elephant comed [: came] [* m:=ed] . 392578_401744
+%mor:	cconj|and verb|have-Fin-Imp-S det|a-Ind-Art adj|other-S1 noun|elephant-Acc verb|come-Fin-Ind-Past-S3-irr .
+%gra:	1|2|CC 2|6|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|XCOMP 7|2|PUNCT
+%wor:	and 392578_398081 have 398381_398982 a 398982_399002 other 399062_399262 elephant 400763_401443 came 401483_401744 .
+*CHI:	and have big bandage . 409018_410551
+%mor:	cconj|and verb|have-Fin-Imp-S adj|big-S1 noun|bandage-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%wor:	and 409018_409421 have 409562_410026 big 410046_410349 bandage 410389_410551 .
+*CHI:	and [//] &+ff <looked out> [//] &+th and looked out on &+rad &+ra cut . 416586_426253
+%mor:	cconj|and verb|look-Fin-Ind-Past-S1 adp|out adp|on noun|cut .
+%gra:	1|2|CC 2|5|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	and 416586_417006 looked 418387_418828 out 418948_420809 and 420869_421089 looked 421850_422250 out 422310_422591 on 422651_422791 cut 425753_426253 .
+*CHI:	and the elephant put no runned [: ran] [* m:=ed] . 430165_433787
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|put-Fin-Ind-Past-S3-irr det|no-Def-Neg verb|run-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 430165_430285 the 430685_430785 elephant 431005_431766 put 432146_432386 no 432786_432906 ran 433287_433787 .
+*EXA:	and the end . 433567_433707
+%mor:	cconj|and det|the-Def-Art noun|end .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	and 433567_433627 the 433627_433707 end .
+@G:	A3
+*EXA:	that one . 439652_440391
+%mor:	det|that-Def-Dem-Sing num|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	that 439652_439871 one 439891_440391 .
+*EXA:	see the numbers are going now ? 440452_441892
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|number-Plur aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adv|now ?
+%gra:	1|6|ROOT 2|3|DET 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|ADVMOD 7|1|PUNCT
+%wor:	see 440452_440591 the 440591_440651 numbers 440692_441012 are 441012_441072 going 441132_441352 now 441392_441892 ?
+*EXA:	there you go . 442914_443674
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	there 442914_443033 you 443033_443093 go 443193_443674 .
+*EXA:	okay Firstname go ahead and tell me the story that you see . 448000_450624
+%mor:	intj|okay noun|firstname verb|go-Fin-Imp-S adv|ahead cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|12|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|3|PUNCT
+%wor:	okay 448000_448080 Firstname 448080_448280 go 448280_448320 ahead 448320_448521 and 448521_448601 tell 448661_448861 me 448921_449002 the 449242_449342 story 449362_449723 that 449723_449823 you 449823_450124 see 450124_450624 .
+*CHI:	<and have> [//] <xxx have> [//] a cow have a plane . 454392_454892
+%mor:	det|a-Ind-Art noun|cow verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|plane-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and have xxx have a cow have a plane 454392_454892 .
+*CHI:	and the elephant want some one . 458515_464282
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|want-Fin-Ind-Pres-P3 det|some-Def-Ind noun|one-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 458515_459636 the 460197_460317 elephant 461138_461799 want 462159_462460 some 462981_463681 one 463782_464282 .
+*CHI:	and him elephant have a &+ki cow hand . 467327_472694
+%mor:	cconj|and pron|he-Prs-Acc-S3 noun|elephant verb|have-Fin-Ind-S det|a-Ind-Art noun|cow noun|hand-Acc .
+%gra:	1|4|CC 2|3|COMPOUND 3|4|NSUBJ 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%wor:	and 467327_467487 him 467927_468127 elephant 469289_470050 have 470390_470751 a 470951_470971 cow 471632_471932 hand 472213_472694 .
+*CHI:	and the airplane in the water . 476995_480059
+%mor:	cconj|and det|the-Def-Art noun|airplane adp|in det|the-Def-Art noun|water .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	and 476995_477115 the 477115_477736 airplane 478417_478958 in 479098_479198 the 479299_479419 water 479559_480059 .
+*CHI:	and the cow take mad . 483927_487773
+%mor:	cconj|and det|the-Def-Art noun|cow verb|take-Fin-Ind-Pres-S adj|mad-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	and 483927_484067 the 484327_484448 cow 485349_485710 take 486551_486892 mad 487273_487773 .
+*CHI:	and the elephant comed [: came] [* m:=ed] [^ /kUmEd/] . 492175_494856
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|come-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and 492175_492275 the 492335_492715 elephant 493075_493736 came 494356_494856 .
+*CHI:	and the elephant says cow do this . 499400_505183
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|say-Fin-Ind-Pres-S3 noun|cow verb|do-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|4|PUNCT
+%wor:	and 499400_499640 the 500720_500861 elephant 501421_502121 says 502602_502922 cow 503562_503943 do 504363_504483 this 504683_505183 .
+*CHI:	and the [/] &+leph the elephant try get this . 509465_514868
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|try-Fin-Imp-S verb|get-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|XCOMP 6|5|OBJ 7|4|PUNCT
+%wor:	and 509465_509585 the 509805_510585 the 510765_511506 elephant 512046_512747 try 513267_513547 get 513927_514228 this 514368_514868 .
+*CHI:	and the [/] the cow [/] cow cry . 518871_523494
+%mor:	cconj|and det|the-Def-Art noun|cow noun|cry .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	and 518871_519171 the 519171_519631 the 521852_521973 cow 522153_522473 cow 522713_523193 cry 523353_523494 .
+*CHI:	and the other elephant comed [: came] [* m:=ed] . 529775_535143
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|elephant verb|come-Fin-Ind-Past-S3-irr .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	and 529775_529895 the 531417_531978 other 532098_532419 elephant 534522_534883 came 534883_535143 .
+*CHI:	and the other elephant picked the plane up . 537027_541654
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|elephant verb|pick-Fin-Ind-Past-S3 det|the-Def-Art noun|plane-Acc adp|up .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|5|PUNCT
+%wor:	and 537027_537146 the 537146_537226 other 537307_538849 elephant 539049_539550 picked 539871_540251 the 540371_540652 plane 540652_541153 up 541173_541654 .
+*CHI:	<and the elephant get> [//] the cow get the plane . 543815_552232
+%mor:	det|the-Def-Art noun|cow verb|get-Fin-Imp-S det|the-Def-Art noun|plane-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	and 543815_543915 the 544276_545158 elephant 546521_547182 get 547543_547784 the 547844_548425 cow 550109_550530 get 550971_551131 the 551171_551592 plane 551732_552232 .
+*CHI:	and the cow is happy . 556319_559489
+%mor:	cconj|and det|the-Def-Art noun|cow aux|be-Fin-Ind-Pres-S3 adj|happy-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	and 556319_556439 the 556479_556640 cow 558086_558467 is 558688_558869 happy 558989_559489 .
+@End

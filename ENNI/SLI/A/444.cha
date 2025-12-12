@@ -1,0 +1,459 @@
+@UTF8
+@PID:	11312/c-00036111-1
+@Begin
+@Languages:	eng
+@Participants:	EXA Investigator, CHI Target_Child, UNI Unidentified
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@ID:	eng|ENNI|CHI|4;02.04|male|SLI||Target_Child|||
+@ID:	eng|ENNI|UNI|||||Unidentified|||
+@Media:	444, audio
+@Comment:	Birth of CHI is 30-MAR-1997
+@Date:	03-JUN-2001
+@Tape Location:	Disk L29 Track 2
+@Types:	cross, narrative, SLI
+*EXA:	I won't be able to see the pictures . 4315_5838
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not aux|be-Inf-S adj|able-S1 part|to verb|see-Inf-S det|the-Def-Art noun|picture-Plur-Acc .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|COP 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+%wor:	I 4315_4335 won't 4335_4495 be 4515_4575 able 4656_4816 to 4856_4917 see 5017_5158 the 5178_5258 pictures 5338_5838 .
+*EXA:	so you need to tell me the story really well so that I can understand . 5880_9330
+%mor:	adv|so pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|story-Acc adv|really adv|well sconj|so sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|understand-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|15|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|10|ADVMOD 10|5|ADVMOD 11|15|MARK 12|11|FIXED 13|15|NSUBJ 14|15|AUX 15|5|ADVCL 16|3|PUNCT
+%wor:	so 5880_5960 you 6041_6121 need 6181_6322 to 6362_6442 tell 6482_6683 me 6723_6763 the 6823_6904 story 6984_7305 really 7526_7847 well 7947_8148 so 8208_8309 that 8349_8489 I 8590_8610 can 8670_8790 understand 8830_9330 .
+*EXA:	okay ? 9673_10173
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 9673_10173 ?
+*EXA:	how would you start your story ? 17325_18666
+%mor:	adv|how aux|would-Fin-S pron|you-Prs-Nom-S2 verb|start-Inf-S pron|your-Prs-Gen-S2 noun|story-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%wor:	how 17325_17425 would 17465_17565 you 17585_17685 start 17726_17986 your 18026_18146 story 18166_18666 ?
+*CHI:	just ask them .
+%mor:	adv|just verb|ask-Fin-Imp-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|IOBJ 4|2|PUNCT
+*EXA:	would you say one day or once upon a time ? 19189_26864
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S num|one noun|day cconj|or adv|once adp|upon det|a-Ind-Art noun|time ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|NUMMOD 5|3|OBL-UNMARKED 6|7|CC 7|5|CONJ 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+%wor:	would 19189_24139 you 24179_24239 say 24300_24460 one 24620_24781 day 24881_25181 or 25462_25602 once 25763_25943 upon 25983_26224 a 26284_26304 time 26364_26864 ?
+*CHI:	he's going in the shopping . 31675_33035
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|in det|the-Def-Art noun|shopping-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	he's 31675_31775 going 31835_32115 in 32175_32355 the 32375_32455 shopping 32535_33035 .
+*CHI:	to buy cookies . 37940_39100
+%mor:	part|to verb|buy-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	to 37940_38080 buy 38220_38480 cookies 38600_39100 .
+*CHI:	to eat cookies . 43024_44104
+%mor:	part|to verb|eat-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	to 43024_43144 eat 43364_43504 cookies 43604_44104 .
+*CHI:	to spell cookies . 47845_49446
+%mor:	part|to verb|spell-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	to 47845_48105 spell 48426_48786 cookies 48946_49446 .
+*CHI:	bake a cookies . 53194_54155
+%mor:	verb|bake-Fin-Imp-S det|a-Ind-Art noun|cookie-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	bake 53194_53495 a 53515_53535 cookies 53655_54155 .
+*CHI:	the end .
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*EXA:	okay . 58904_59404
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 58904_59404 .
+@G:	A1
+*CHI:	elephant . 66346_66846
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elephant 66346_66846 .
+*CHI:	zebra .
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+*EXA:	what happens in the story ? 71072_72394
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|story ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	what 71072_71193 happens 71253_71613 in 71673_71753 the 71753_71814 story 71894_72394 ?
+*CHI:	<ze> [/] zebra .
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ball . 74858_75358
+%mor:	noun|ball .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ball 74858_75358 .
+*CHI:	zebra and elephant . 86524_89208
+%mor:	noun|zebra cconj|and noun|elephant .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	zebra 86524_88607 and 88628_88688 elephant 88708_89208 .
+*CHI:	<ze (.) um> [//] elephant and zebra and ball . 88928_92474
+%mor:	noun|elephant cconj|and noun|zebra cconj|and noun|ball .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	ze 88928_88968 um 88968_89008 elephant 89690_90311 and 90391_90611 zebra 90792_91152 and 91333_91553 ball 91974_92474 .
+*CHI:	zebra and the [?] ball <an> [/] (.) and the [?] elephant . 97065_104950
+%mor:	noun|zebra cconj|and det|the-Def-Art noun|ball cconj|and det|the-Def-Art noun|elephant .
+%gra:	1|7|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|7|CC 6|7|DET 7|1|CONJ 8|1|PUNCT
+%wor:	zebra 97065_97265 and 98426_99086 the 103249_103409 ball 103490_103670 an 103750_103790 and 103870_103990 the 104070_104370 elephant 104450_104950 .
+*CHI:	zebra and the elephant and the ball . 104871_109394
+%mor:	noun|zebra cconj|and det|the-Def-Art noun|elephant cconj|and det|the-Def-Art noun|ball .
+%gra:	1|7|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|7|CC 6|7|DET 7|1|CONJ 8|1|PUNCT
+%wor:	zebra 104871_105051 and 105131_105271 the 105271_105351 elephant 105511_108113 and 108173_108513 the 108674_108874 ball 108894_109394 .
+*CHI:	the end . [+ bch]
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*EXA:	okay . 109114_109614
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 109114_109614 .
+@G:	A2
+*CHI:	why I need this ? 112395_113756
+%mor:	adv|why pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|this-Dem-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	why 112395_112595 I 112655_112675 need 112855_113176 this 113256_113756 ?
+*CHI:	&-um elephant and zebra . 113917_120406
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	um 113917_117302 elephant 117542_118363 and 118444_118724 zebra 119906_120406 .
+*CHI:	elephant and zebra . 120567_125653
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 120567_121929 and 125013_125153 zebra 125153_125653 .
+*CHI:	elephant and zebra . 140546_143149
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 140546_140827 and 140927_142649 zebra 142649_143149 .
+*CHI:	<owie and uh> [/] <owie> [//] elephant has a owie . 142930_144852
+%mor:	noun|elephant verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|owie-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	owie 142930_143190 and 143190_143290 uh 143290_143330 owie 143330_143410 elephant 143430_143831 has 143831_144111 a 144191_144211 owie 144352_144852 .
+*CHI:	and the zebra do n(o)t has a owie . 144952_146994
+%mor:	cconj|and det|the-Def-Art noun|zebra aux|do-Fin-Ind-Pres-P3 part|not verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|owie-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+%wor:	and 144952_145153 the 145153_145233 zebra 145393_145753 do 145914_145994 n(o)t 146114_146274 has 146274_146394 a 146474_146494 owie 146494_146994 .
+*CHI:	there (i)s two elephants . 154675_155495
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|two noun|elephant-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|2|PUNCT
+%wor:	there 154675_154775 (i)s 154775_154855 two 154855_154915 elephants 154995_155495 .
+*CHI:	zebra .
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+*UNI:	xxx.
+*CHI:	two elephant . 156317_156957
+%mor:	num|two noun|elephant .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	two 156317_156397 elephant 156457_156957 .
+*CHI:	two elephants and zebra . 165992_167534
+%mor:	num|two noun|elephant-Plur cconj|and noun|zebra .
+%gra:	1|2|NUMMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%wor:	two 165992_166113 elephants 166333_166954 and 166954_167014 zebra 167034_167534 .
+*CHI:	two elephants and zebra . 170535_172576
+%mor:	num|two noun|elephant-Plur cconj|and noun|zebra .
+%gra:	1|2|NUMMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%wor:	two 170535_170715 elephants 171035_171696 and 171796_171976 zebra 172076_172576 .
+*CHI:	two <ele> [/] elephants . 172917_178382
+%mor:	num|two noun|elephant-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	two 172917_173237 ele 173237_176580 elephants 177882_178382 .
+*CHI:	no zebra . 180504_181184
+%mor:	det|no-Def-Neg noun|zebra .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	no 180504_180604 zebra 180684_181184 .
+*CHI:	the end . [+ bch]
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	you have to put it right there . 186905_187885
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adv|right adv|there .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|7|ADVMOD 7|4|ADVMOD 8|2|PUNCT
+%wor:	you 186905_186965 have 186965_187045 to 187045_187085 put 187085_187145 it 187145_187185 right 187225_187345 there 187385_187885 .
+*EXA:	okay . 187826_188326
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 187826_188326 .
+@G:	A3
+*EXA:	okay Firstname . 188006_188666
+%mor:	intj|okay noun|firstname .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 188006_188166 Firstname 188166_188666 .
+*CHI:	elephant and zebra . 195097_196418
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 195097_195598 and 195678_195838 zebra 195918_196418 .
+*CHI:	&-uh (.) elephant and zebra . 196619_200404
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	uh 196619_197160 elephant 197440_197941 and 199403_199904 zebra 199904_200404 .
+*CHI:	airplane . 204345_204845
+%mor:	noun|airplane .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	airplane 204345_204845 .
+*CHI:	&-uh elephant and zebra (.) airplane . 207190_211196
+%mor:	noun|elephant cconj|and noun|zebra noun|airplane .
+%gra:	1|4|COMPOUND 2|4|CC 3|1|CONJ 4|4|ROOT 5|4|PUNCT
+%wor:	uh 207190_208613 elephant 208653_209234 and 209314_209474 zebra 209554_209895 airplane 210696_211196 .
+*CHI:	elephant and zebra airplane . 211337_215744
+%mor:	noun|elephant cconj|and noun|zebra noun|airplane .
+%gra:	1|4|COMPOUND 2|4|CC 3|1|CONJ 4|4|ROOT 5|4|PUNCT
+%wor:	elephant 211337_214202 and 214262_214503 zebra 214503_214863 airplane 215244_215744 .
+*CHI:	&-uh it (i)s on . [+ bch]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|on .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that sound ? [+ bch] 220645_221445
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|sound ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%wor:	what 220645_220765 (i)s 220765_220865 that 220865_220945 sound 220945_221445 ?
+*CHI:	what (i)s that sound in there ? [+ bch] 222267_223889
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|sound adp|in adv|there ?
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|6|CASE 6|1|OBL 7|1|PUNCT
+%wor:	what 222267_222387 (i)s 222387_222468 that 222488_222728 sound 222828_223189 in 223269_223389 there 223389_223889 ?
+*CHI:	&-um elephant and zebra and (.) airplane . 224952_227856
+%mor:	noun|elephant cconj|and noun|zebra cconj|and noun|airplane .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	um 224952_225132 elephant 225613_226194 and 226274_226454 zebra 226535_226955 and 227096_227296 airplane 227356_227856 .
+*CHI:	elephant and zebra . 228698_231082
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 228698_230401 and 230401_230582 zebra 230582_231082 .
+*CHI:	elephant and zebra . 235365_236647
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 235365_235866 and 235927_236067 zebra 236147_236647 .
+*CHI:	two (.) elephants and zebra . 236468_237590
+%mor:	num|two noun|elephant-Plur cconj|and noun|zebra .
+%gra:	1|2|NUMMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%wor:	two 236468_236649 elephants 236649_236930 and 236950_237050 zebra 237090_237590 .
+*CHI:	elephant and zebra and airplane . 250580_252924
+%mor:	noun|elephant cconj|and noun|zebra cconj|and noun|airplane .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	elephant 250580_251061 and 251141_251261 zebra 251402_251742 and 251983_252203 airplane 252424_252924 .
+*CHI:	elephant and zebra .
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	elephant and zebra .
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	elephant and zebra . 278538_283505
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 278538_282724 and 282784_282945 zebra 283005_283505 .
+*CHI:	elephant and zebra .
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	elephant and zebra .
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	elephant and zebra . 283285_287230
+%mor:	noun|elephant cconj|and noun|zebra .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	elephant 283285_285328 and 285388_285668 zebra 286730_287230 .
+*CHI:	the end . [+ bch]
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*EXA:	okay. 289554_290054
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 289554_290054 .
+@G:	B1
+*CHI:	bunny .
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*EXA:	what happens in the story ? 294825_296105
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|story ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	what 294825_294945 happens 295005_295325 in 295385_295465 the 295465_295525 story 295605_296105 ?
+*CHI:	&-um sandcastle . 296426_300228
+%mor:	noun|sandcastle .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 296426_298467 sandcastle 299728_300228 .
+*CHI:	sandcastle .
+%mor:	noun|sandcastle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sandcastle and puppy and bunny . 302970_309134
+%mor:	noun|sandcastle cconj|and noun|puppy cconj|and noun|bunny .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	sandcastle 302970_307273 and 307574_308174 puppy 308294_308574 and 308574_308634 bunny 308634_309134 .
+*CHI:	<sandcastle and bun> [//] <uh (..) san> [/] sandcastle and (.) <dog> [/] doggy and rabbit . 321291_326854
+%mor:	noun|sandcastle cconj|and noun|doggy cconj|and noun|rabbit .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	sandcastle 321291_322051 and 322191_323652 bun 324513_324833 uh 324933_325334 san 325394_325474 sandcastle 325474_326014 and 326014_326074 dog 326094_326154 doggy 326174_326294 and 326294_326354 rabbit 326354_326854 .
+*CHI:	bunny . 330285_330785
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bunny 330285_330785 .
+*CHI:	sandcastle breaked .
+%mor:	noun|sandcastle verb|break-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	a sandcastle breaked . 332428_335010
+%mor:	det|a-Ind-Art noun|sandcastle verb|break-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	a 332428_332448 sandcastle 332708_334470 breaked 334510_335010 .
+*CHI:	they (a)re making it again . 346015_357064
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|make-Part-Pres-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	they 346015_346095 (a)re 346095_356323 making 356323_356504 it 356504_356564 again 356564_357064 .
+*CHI:	the end . [+ bch]
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*EXA:	okay. 356724_357224
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 356724_357224 .
+@G:	B2
+*CHI:	&-um basket . 356944_357604
+%mor:	noun|basket .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 356944_356984 basket 357104_357604 .
+*CHI:	puppy and (.) rabbit . 361425_363467
+%mor:	noun|puppy cconj|and noun|rabbit .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	puppy 361425_361765 and 362025_362366 rabbit 362967_363467 .
+*CHI:	carrot . 363407_363907
+%mor:	noun|carrot .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	carrot 363407_363907 .
+*CHI:	I said a carrot that (i)s it . [+ bch] 363728_375444
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|carrot-Acc pron|that-Rel aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|NSUBJ 6|7|COP 7|4|ACL-RELCL 8|2|PUNCT
+%wor:	I 363728_363748 said 363748_363868 a 363868_363888 carrot 363908_364068 that 364128_364209 (i)s 364209_374944 it 374944_375444 .
+*CHI:	drink . 379825_380325
+%mor:	verb|drink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	drink 379825_380325 .
+*CHI:	<pa> [//] basket .
+%mor:	noun|basket .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sandwich . 382288_382788
+%mor:	noun|sandwich .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sandwich 382288_382788 .
+*CHI:	juice . 383851_384351
+%mor:	noun|juice .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	juice 383851_384351 .
+*CHI:	I said juice . [+ bch] 394470_395239
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr noun|juice-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I 394470_394490 said 394553_394739 juice 394739_395239 .
+*EXA:	(...) what happens in the story ? 413056_419480
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|story ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	what 413056_417279 happens 417299_418740 in 418760_418880 the 418880_418960 story 418980_419480 ?
+*CHI:	&-um tree . 419281_420061
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um 419281_419561 tree 419561_420061 .
+*CHI:	tree . 419901_420401
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tree 419901_420401 .
+*CHI:	<tr> [/] (.) tree . 423183_425144
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tr 423183_424184 tree 424644_425144 .
+*CHI:	tree . 430102_430602
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tree 430102_430602 .
+*CHI:	tree . 430402_430902
+%mor:	noun|tree .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tree 430402_430902 .
+*CHI:	the end . [+ bch]
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*EXA:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there we go .
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@G:	B3
+*CHI:	&-uh balloon .
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	balloon .
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	balloon .
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*EXA:	what happens in the story ? 449765_451005
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|story ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	what 449765_449885 happens 449925_450245 in 450285_450345 the 450365_450445 story 450505_451005 ?
+*CHI:	balloon .
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	balloon . 454508_455008
+%mor:	noun|balloon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	balloon 454508_455008 .
+*CHI:	fly away balloon . 456590_457911
+%mor:	verb|fly-Inf-S adv|away noun|balloon-Acc .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|OBJ 4|1|PUNCT
+%wor:	fly 456590_456810 away 456890_457251 balloon 457411_457911 .
+*CHI:	<t> [//] popped the balloon . 460593_462094
+%mor:	verb|pop-Fin-Ind-Past-S1 det|the-Def-Art noun|balloon-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	t 460593_460613 popped 460914_461414 the 461414_461494 balloon 461594_462094 .
+*CHI:	lots of balloons . 464985_465765
+%mor:	noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	lots 464985_465145 of 465185_465245 balloons 465265_465765 .
+*CHI:	lots of balloons . 466486_469469
+%mor:	noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	lots 466486_468808 of 468868_468909 balloons 468969_469469 .
+*CHI:	lots of balloons . 471551_472792
+%mor:	noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	lots 471551_471992 of 472092_472172 balloons 472292_472792 .
+*CHI:	five balloon . 473834_474734
+%mor:	num|five noun|balloon .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	five 473834_474194 balloon 474234_474734 .
+*CHI:	lots of balloons .
+%mor:	noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	I said lots of balloons . [+ bch] 481515_486262
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr noun|lot-Plur-Acc adp|of noun|balloon-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+%wor:	I 481515_481535 said 481555_481815 lots 481855_482236 of 485201_485382 balloons 485762_486262 .
+*CHI:	lots of balloons . 489970_490931
+%mor:	noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	lots 489970_490391 of 490391_490431 balloons 490431_490931 .
+*CHI:	yeah &-uh (.) lots of balloons . 490811_492333
+%mor:	intj|yeah noun|lot-Plur adp|of noun|balloon-Plur .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	yeah 490811_490952 uh 490952_491112 lots 491112_491593 of 491693_491773 balloons 491833_492333 .
+*CHI:	let (u)s count the balloons <in here> [//] in this picture . 497695_501521
+%mor:	verb|let-Fin-Imp-S pron|we-Prs-Acc-P1 verb|count-Inf-S det|the-Def-Art noun|balloon-Plur-Acc adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|1|PUNCT
+%wor:	let 497695_497775 (u)s 497775_499277 count 499277_499378 the 499398_499458 balloons 499498_499758 in 499758_499818 here 499879_500480 in 500580_500680 this 500760_500940 picture 501021_501521 .
+*CHI:	one two three four six seven eight nine . 502303_506850
+%mor:	num|one num|two num|three num|four num|six num|seven num|eight num|nine .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|8|NUMMOD 4|8|NUMMOD 5|8|NUMMOD 6|8|NUMMOD 7|8|NUMMOD 8|8|ROOT 9|8|PUNCT
+%wor:	one 502303_502744 two 503124_503325 three 503886_504126 four 504487_504667 six 505168_505429 seven 505809_506090 eight 506090_506350 nine 506350_506850 .
+*CHI:	there (i)s nine . 506551_508854
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|nine .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	there 506551_506711 (i)s 506711_508274 nine 508354_508854 .
+*CHI:	two (.) balloons . 512155_513997
+%mor:	num|two noun|balloon-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	two 512155_512295 balloons 513497_513997 .
+*CHI:	there (i)s two balloons . 514418_515620
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|two noun|balloon-Plur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|2|PUNCT
+%wor:	there 514418_514639 (i)s 514639_514799 two 514859_514979 balloons 515120_515620 .
+*CHI:	none balloon . 515861_516461
+%mor:	pron|none-Neg-S1 noun|balloon .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	none 515861_515961 balloon 515961_516461 .
+*CHI:	one balloon . 520910_521590
+%mor:	num|one noun|balloon .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%wor:	one 520910_521050 balloon 521090_521590 .
+*CHI:	<two ba> [/-] the end . [+ bch] 521511_522912
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	two 521511_521831 ba 521851_522052 the 522092_522172 end 522412_522912 .
+@End

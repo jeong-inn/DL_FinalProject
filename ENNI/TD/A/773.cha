@@ -1,0 +1,291 @@
+@UTF8
+@PID:	11312/c-00036384-1
+@Begin
+@Languages:	eng
+@Participants:	EXA Investigator, CHI Target_Child
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@ID:	eng|ENNI|CHI|7;05.19|female|TD||Target_Child|||
+@Media:	773, audio
+@Comment:	Birth of CHI is 22-SEP-1993
+@Date:	13-MAR-2001
+@Tape Location:	Disk M8, Track 30
+@Types:	cross, narrative, TD
+*EXA:	so this is Firstname Lastname &-um grade two number seven seven three . 1535_6322
+%mor:	adv|so pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|firstname-S1 propn|Lastname noun|grade num|two noun|number num|seven num|seven num|three .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|AMOD 5|6|COMPOUND 6|11|ROOT 7|8|NUMMOD 8|6|NMOD-UNMARKED 9|8|NUMMOD 10|11|NUMMOD 11|6|APPOS 12|6|PUNCT
+%wor:	so 1535_1595 this 1735_1915 is 1955_2055 Firstname 2136_2656 Lastname 2737_3137 um 3398_3678 grade 3939_4099 two 4239_4480 number 4620_4940 seven 5020_5381 seven 5501_5762 three 5822_6322 .
+*CHI:	ready to tell the story , okay . 7806_9668
+%mor:	adj|ready-S1 part|to verb|tell-Inf-S det|the-Def-Art noun|story-Acc cm|cm intj|okay .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|PUNCT 7|1|DISCOURSE 8|1|PUNCT
+%wor:	ready 7806_8046 to 8126_8206 tell 8266_8426 the 8466_8526 story 8587_8867 , okay 9168_9668 .
+*CHI:	one day there was a boy who went to the store . 9950_12713
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|boy pron|who-Rel verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|store .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|11|ROOT 5|6|DET 6|4|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%wor:	one 9950_10129 day 10189_10350 there 10430_10590 was 10590_10750 a 10830_10850 boy 10971_11231 who 11331_11431 went 11511_11692 to 11772_11872 the 11952_12032 store 12213_12713 .
+*CHI:	he wanted to buy cookies . 16615_18557
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 part|to verb|buy-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	he 16615_16695 wanted 16995_17456 to 17536_17656 buy 17757_17957 cookies 18057_18557 .
+*CHI:	he took a box of cookies and all the cookies fell down . 21183_27534
+%mor:	pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|box-Acc adp|of noun|cookie-Plur cconj|and det|all-Def-Tot det|the-Def-Art noun|cookie-Plur verb|fall-Fin-Ind-Past-P3-irr adp|down .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|11|CC 8|10|DET-PREDET 9|10|DET 10|11|NSUBJ 11|2|CONJ 12|11|COMPOUND-PRT 13|2|PUNCT
+%wor:	he 21183_21303 took 21463_21683 a 21743_21763 box 21844_22104 of 22284_22365 cookies 22485_23186 and 25490_25650 all 26031_26131 the 26171_26251 cookies 26331_26672 fell 26752_26973 down 27053_27534 .
+*CHI:	the store keeper was very mad . 30155_33639
+%mor:	det|the-Def-Art noun|store noun|keeper aux|be-Fin-Ind-Past-S3-irr adv|very adj|mad-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	the 30155_30215 store 30335_30795 keeper 31396_31897 was 32057_32298 very 32638_33019 mad 33139_33639 .
+*CHI:	and the little boy ran . 33640_35361
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy verb|run-Fin-Ind-Past-S3-irr .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	and 33640_33760 the 33820_33920 little 34000_34340 boy 34441_34741 ran 34861_35361 .
+*EXA:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	A1
+*CHI:	one day there was an elephant and a giraffe . 41652_43654
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|elephant cconj|and det|a-Ind-Art noun|giraffe .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|4|PUNCT
+%wor:	one 41652_41751 day 41771_41851 there 41891_42051 was 42071_42191 an 42252_42312 elephant 42492_42973 and 43013_43153 a 43173_43193 giraffe 43313_43654 .
+*CHI:	the elephant was bouncing &-uh a ball .
+%mor:	det|the-Def-Art noun|elephant aux|be-Fin-Ind-Past-S3-irr verb|bounce-Part-Pres-S det|a-Ind-Art noun|ball-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%com:	brief interruption from announcement .
+*EXA:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the ball fell in the water .
+%mor:	det|the-Def-Art noun|ball verb|fall-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	and the giraffe jumped in the water and got [//] swam to the ball . 62396_66202
+%mor:	cconj|and det|the-Def-Art noun|giraffe verb|jump-Fin-Ind-Past-S3 adp|in det|the-Def-Art noun|water cconj|and verb|swim-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|ball .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+%wor:	and 62396_62596 the 62596_62696 giraffe 62816_63157 jumped 63257_63558 in 63578_63698 the 63698_63778 water 63878_64219 and 64279_64399 got 64499_64719 swam 65060_65340 to 65400_65520 the 65581_65661 ball 65721_66202 .
+*CHI:	he got the ball and gave it to the elephant . 68629_70989
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|the-Def-Art noun|ball-Acc cconj|and verb|give-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|elephant .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|2|CONJ 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|2|PUNCT
+%wor:	he 68629_68689 got 68769_68989 the 69109_69209 ball 69269_69569 and 69629_69709 gave 69789_70049 it 70069_70149 to 70209_70289 the 70329_70429 elephant 70489_70989 .
+*CHI:	the elephant said thank you . 73075_79774
+%mor:	det|the-Def-Art noun|elephant verb|say-Fin-Ind-Past-S3-irr verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|3|CCOMP 5|4|OBJ 6|3|PUNCT
+%wor:	the 73075_73191 elephant 73471_74691 said 78913_79233 thank 79573_79713 you 79713_79774 .
+@G:	A2
+*CHI:	the elephant and the &+g giraffe were looking in the water . 88588_93282
+%mor:	det|the-Def-Art noun|elephant cconj|and det|the-Def-Art noun|giraffe aux|be-Fin-Ind-Past-P3-irr verb|look-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	the 88588_88849 elephant 89290_89772 and 89832_90253 the 90334_90494 giraffe 90715_91558 were 91558_91698 looking 91798_92340 in 92380_92501 the 92561_92661 water 92782_93282 .
+*CHI:	the elephant was going to go off the &-um board . 97485_107583
+%mor:	det|the-Def-Art noun|elephant aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S part|to verb|go-Inf-S adp|off det|the-Def-Art noun|board .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	the 97485_97565 elephant 97625_98266 was 98727_99027 going 99268_99629 to 99689_99809 go 99909_100009 off 100370_100570 the 101272_101412 um 101412_101572 board 107083_107583 .
+*CHI:	the elephant slipped and fell . 111995_117021
+%mor:	det|the-Def-Art noun|elephant verb|slip-Fin-Ind-Past-S3 cconj|and verb|fall-Fin-Ind-Past-S3-irr .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%wor:	the 111995_112095 elephant 112275_112876 slipped 113577_114238 and 116201_116341 fell 116521_117021 .
+*CHI:	she hurt her knee . 119466_120726
+%mor:	pron|she-Prs-Nom-S3 verb|hurt-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|knee-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%wor:	she 119466_119585 hurt 119746_119986 her 120046_120206 knee 120226_120726 .
+*CHI:	the elephant started to cry . 123352_125193
+%mor:	det|the-Def-Art noun|elephant verb|start-Fin-Ind-Past-S3 part|to verb|cry-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	the 123352_123431 elephant 123511_123852 started 123952_124412 to 124472_124553 cry 124693_125193 .
+*CHI:	so the lifeguard came and put a bandaid on it . 128145_131571
+%mor:	adv|so det|the-Def-Art noun|lifeguard verb|come-Fin-Ind-Past-S3-irr cconj|and verb|put-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bandaid-Acc adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|6|CC 6|4|CONJ 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|4|PUNCT
+%wor:	so 128145_128225 the 128425_128525 lifeguard 128646_129307 came 129387_129688 and 129768_129828 put 129848_130008 a 130069_130089 bandaid 130209_130750 on 130890_131010 it 131071_131571 .
+*CHI:	the life^guard telled [: told] [* m:=ed] her to sit on the bench . 133737_137342
+%mor:	det|the-Def-Art noun|lifeguard verb|tell-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 part|to verb|sit-Inf-S adp|on det|the-Def-Art noun|bench .
+%gra:	1|2|DET 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	the 133737_133816 lifeguard 133896_134999 told 135420_135740 her 135780_135921 to 136001_136081 sit 136221_136422 on 136542_136622 the 136662_136742 bench 136842_137342 .
+*CHI:	she [//] &+t the lifeguard told the elephant to [//] not to run . 140945_145550
+%mor:	det|the-Def-Art noun|lifeguard verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|elephant part|not part|to verb|run-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|IOBJ 6|8|ADVMOD 7|8|MARK 8|3|XCOMP 9|3|PUNCT
+%wor:	she 140945_141105 the 141666_141746 lifeguard 141786_142306 told 142367_142747 the 143048_143148 elephant 143208_143789 to 144289_144369 not 144490_144690 to 144790_144890 run 145050_145550 .
+*EXA:	very good . 146113_146693
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	very 146113_146192 good 146512_146693 .
+@G:	A3
+*EXA:	okay tell me this story . 146613_147213
+%mor:	intj|okay verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	okay 146613_146713 tell 146713_146913 me 147013_147213 this story .
+*CHI:	one day there was an elephant and a giraffe . 151900_154044
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|elephant cconj|and det|a-Ind-Art noun|giraffe .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|4|PUNCT
+%wor:	one 151900_151960 day 152000_152060 there 152120_152281 was 152281_152401 an 152461_152541 elephant 152621_153382 and 153442_153583 a 153583_153603 giraffe 153743_154044 .
+*CHI:	the giraffe had an airplane . 154165_155666
+%mor:	det|the-Def-Art noun|giraffe verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|airplane-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	the 154165_154243 giraffe 154344_154704 had 154764_154965 an 155025_155105 airplane 155185_155666 .
+*CHI:	he was playing with it . 158271_161154
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|play-Part-Pres-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	he 158271_158371 was 158611_158851 playing 159592_160193 with 160313_160534 it 160654_161154 .
+*CHI:	the elephant took it away from him . 164060_167143
+%mor:	det|the-Def-Art noun|elephant verb|take-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adv|away adp|from pron|he-Prs-Acc-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	the 164060_164139 elephant 164520_165100 took 165200_165441 it 165601_165721 away 165761_166062 from 166282_166522 him 166643_167143 .
+*CHI:	and the elephant dropped it in the water [!] . 168926_170809
+%mor:	cconj|and det|the-Def-Art noun|elephant verb|drop-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	and 168926_169026 the 169046_169106 elephant 169206_169607 dropped 169667_169967 it 170007_170087 in 170128_170208 the 170228_170308 water 170328_170809 .
+*CHI:	the giraffe got very mad at the elephant . 173598_176424
+%mor:	det|the-Def-Art noun|giraffe verb|get-Fin-Ind-Past-S3-irr adv|very adj|mad-S1 adp|at det|the-Def-Art noun|elephant .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|ADVMOD 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	the 173598_173678 giraffe 174018_174378 got 174499_174659 very 174759_175119 mad 175259_175600 at 175720_175860 the 175940_176040 elephant 176161_176424 .
+*CHI:	and the lifeguard came <to try to get> [//] and looked at the airplane . 179905_185532
+%mor:	cconj|and det|the-Def-Art noun|lifeguard verb|come-Fin-Ind-Past-S3-irr cconj|and verb|look-Fin-Ind-Past-S3 adp|at det|the-Def-Art noun|airplane .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|9|ROOT 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%wor:	and the 179905_179985 lifeguard 180105_180806 came 180966_181547 to 181927_182027 try 182107_182268 to 182448_182528 get 182608_182768 and 183569_183669 looked 183709_184030 at 184470_184610 the 184791_184911 airplane 185051_185532 .
+*CHI:	the elephant was telling the lifeguard about the airplane . 188678_193119
+%mor:	det|the-Def-Art noun|elephant aux|be-Fin-Ind-Past-S3-irr verb|tell-Part-Pres-S det|the-Def-Art noun|lifeguard-Acc adp|about det|the-Def-Art noun|airplane .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%wor:	the 188678_188738 elephant 188798_189898 was 190078_190278 telling 190378_190858 the 190898_190979 lifeguard 191099_191759 about 191939_192299 the 192399_192499 airplane 192619_193119 .
+*CHI:	the lifeguard tried to get the airplane . 195380_197377
+%mor:	det|the-Def-Art noun|lifeguard verb|try-Fin-Ind-Past-S3 part|to verb|get-Inf-S det|the-Def-Art noun|airplane-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%wor:	the lifeguard 195380_195861 tried 195941_196241 to 196281_196361 get 196441_196601 the 196681_196781 airplane 196881_197377 .
+*CHI:	but the lifeguard couldn't get it . 199742_202283
+%mor:	cconj|but det|the-Def-Art noun|lifeguard aux|could-Fin-S~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%wor:	but 199742_199922 the 200043_200143 lifeguard 200203_200843 couldn't 201123_201483 get 201563_201743 it 201783_202283 .
+*CHI:	so a [//] &-uh a girl other elephant came with a net and got the airplane out . 204725_213316
+%mor:	adv|so det|a-Ind-Art noun|girl adj|other-S1 noun|elephant verb|come-Fin-Ind-Past-S3-irr adp|with det|a-Ind-Art noun|net cconj|and verb|get-Fin-Ind-Past-S3-irr det|the-Def-Art noun|airplane-Acc adp|out .
+%gra:	1|6|ADVMOD 2|5|DET 3|5|COMPOUND 4|5|AMOD 5|6|NSUBJ 6|14|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|6|CONJ 12|13|DET 13|11|OBJ 14|11|COMPOUND-PRT 15|6|PUNCT
+%wor:	so 204725_204805 a 205165_205185 uh 205506_205626 a 205666_205686 girl 205826_206187 other 206727_207068 elephant 207188_207729 came 207789_208210 with 208770_208971 a 209011_209031 net 209151_209491 and 211214_211374 got 211474_211695 the 211775_211875 airplane 211935_212816 out 212816_213316 .
+*CHI:	and the giraffe was very happy . 215741_217943
+%mor:	cconj|and det|the-Def-Art noun|giraffe aux|be-Fin-Ind-Past-S3-irr adv|very adj|happy-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	and 215741_215861 the 215881_215961 giraffe 216081_216521 was 216602_216842 very 217042_217303 happy 217443_217943 .
+*CHI:	and <the elephant and the giraffe> [//] the giraffe hugged the hair [//] airplane . 221075_227994
+%mor:	cconj|and det|the-Def-Art noun|giraffe verb|hugge-Fin-Ind-Past-S3 det|the-Def-Art noun|airplane-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	and 221075_221255 the 221496_221576 elephant 221676_222278 and 223080_223220 the 224143_224344 giraffe 224705_225667 the 225968_226028 giraffe 226108_226509 hugged 226590_227031 the 227352_227412 hair 227412_227552 airplane 227592_227994 .
+*EXA:	well told .
+%mor:	adv|well verb|tell-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+@G:	B1
+*CHI:	one day there was a bunny and another bunny . 235615_239879
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bunny cconj|and det|another-Def-Ind noun|bunny .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|4|PUNCT
+%wor:	one 235615_235735 day 235795_235955 there 236095_236295 was 236335_236656 a 237056_237076 bunny 237236_237617 and 238318_238518 another 238718_239259 bunny 239379_239879 .
+*CHI:	they built a sandcastle . 241343_243303
+%mor:	pron|they-Prs-Nom-P3 verb|build-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|sandcastle-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	they 241343_241622 built 242182_242483 a 242643_242663 sandcastle 242803_243303 .
+*CHI:	they [//] the boy bunny put the big bucket of sand on the sandcastle . 245889_250594
+%mor:	det|the-Def-Art noun|boy noun|bunny verb|put-Fin-Ind-Past-S3-irr det|the-Def-Art adj|big-S1 noun|bucket-Acc adp|of noun|sand adp|on det|the-Def-Art noun|sandcastle .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|12|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|CASE 9|7|NMOD 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+%wor:	they 245889_246069 the 246589_246669 boy 246829_247189 bunny 247329_247649 put 247829_248129 the 248489_248609 big 248789_248990 bucket 249090_249450 of 249490_249570 sand 249650_249950 on 250090_250250 the 250290_250370 sandcastle 250510_250594 .
+*CHI:	and the sandcastle broke . 252915_254578
+%mor:	cconj|and det|the-Def-Art noun|sandcastle verb|break-Fin-Ind-Past-S3-irr .
+%gra:	1|4|CC 2|3|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%wor:	and 252915_252991 the 253011_253091 sandcastle 253191_254011 broke 254091_254578 .
+*CHI:	and the girl bunny started to cry . 257025_260793
+%mor:	cconj|and det|the-Def-Art noun|girl noun|bunny verb|start-Fin-Ind-Past-S3 part|to verb|cry-Inf-S .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	and 257025_257152 the 257252_257372 girl 257752_258073 bunny 259073_259373 started 259633_260073 to 260113_260213 cry 260293_260793 .
+@G:	B2
+*CHI:	the boy bunny and the girl bunny went for a picnic . 267455_270858
+%mor:	det|the-Def-Art noun|boy noun|bunny cconj|and det|the-Def-Art noun|girl noun|bunny verb|go-Fin-Ind-Past-S3-irr adp|for det|a-Ind-Art noun|picnic .
+%gra:	1|3|DET 2|3|COMPOUND 3|8|NSUBJ 4|7|CC 5|7|DET 6|7|COMPOUND 7|3|CONJ 8|11|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+%wor:	the 267455_267655 boy 267875_268276 bunny 268396_268656 and 268736_268876 the 268876_268936 girl 269037_269237 bunny 269297_269497 went 269617_269858 for 269978_270178 a 270238_270258 picnic 270358_270858 .
+*CHI:	they found a spot near the trees . 273583_276425
+%mor:	pron|they-Prs-Nom-P3 verb|find-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|spot-Acc adp|near det|the-Def-Art noun|tree-Plur .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	they 273583_273803 found 274063_274424 a 274504_274524 spot 274624_275084 near 275265_275465 the 275625_275725 trees 275925_276425 .
+*CHI:	the boy bunny ate all the food . 279411_282174
+%mor:	det|the-Def-Art noun|boy noun|bunny verb|eat-Fin-Ind-Past-S3-irr det|all-Def-Tot det|the-Def-Art noun|food-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|7|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	the 279411_279490 boy 279610_279891 bunny 279991_280451 ate 280752_281032 all 281292_281473 the 281573_281653 food 281813_282174 .
+*CHI:	and he got sick . 284795_286075
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adj|sick-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	and 284795_284915 he 284975_285075 got 285175_285395 sick 285575_286075 .
+*CHI:	so &-uh the girl bunny went to get a doctor bunny . 288940_293144
+%mor:	adv|so det|the-Def-Art noun|girl noun|bunny verb|go-Fin-Ind-Past-S3-irr part|to verb|get-Inf-S det|a-Ind-Art noun|doctor noun|bunny-Acc .
+%gra:	1|5|ADVMOD 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|10|ROOT 6|7|MARK 7|5|ADVCL 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|5|PUNCT
+%wor:	so 288940_289140 uh 290221_290341 the 290421_290481 girl 290581_290882 bunny 291042_291322 went 291442_291643 to 291703_291783 get 291843_292003 a 292043_292063 doctor 292183_292604 bunny 292644_293144 .
+*CHI:	the girl bunny pulled the doctor bunny to the boy bunny . 296210_299912
+%mor:	det|the-Def-Art noun|girl noun|bunny verb|pull-Fin-Ind-Past-S3 det|the-Def-Art noun|doctor noun|bunny-Acc adp|to det|the-Def-Art noun|boy noun|bunny .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|11|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|4|OBL 12|4|PUNCT
+%wor:	the 296210_296270 girl 296350_296590 bunny 296610_296810 pulled 296990_297330 the 297370_297450 doctor 297570_298011 bunny 298071_298311 to 298511_298651 the 298811_298931 boy 299071_299251 bunny 299412_299912 .
+*CHI:	the doctor bunny told the boy bunny not to eat lots of food . 302435_310199
+%mor:	det|the-Def-Art noun|doctor noun|bunny verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|boy noun|bunny part|not part|to verb|eat-Inf-S noun|lot-Plur-Acc adp|of noun|food .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|13|ROOT 5|7|DET 6|7|COMPOUND 7|4|IOBJ 8|10|ADVMOD 9|10|MARK 10|4|XCOMP 11|10|OBJ 12|13|CASE 13|11|NMOD 14|4|PUNCT
+%wor:	the 302435_302454 doctor 302754_303214 bunny 303274_303534 told 303714_304135 the 305275_305415 boy 305796_306036 bunny 306136_306416 not 307717_307937 to 308037_308137 eat 308297_308698 lots 309178_309518 of 309558_309718 food 309758_310199 .
+*CHI:	the &+r &-uh doctor bunny took the boy bunny with her . 312562_317364
+%mor:	det|the-Def-Art noun|doctor noun|bunny verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|boy noun|bunny-Acc adp|with pron|her-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|9|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|CASE 9|4|OBL 10|4|PUNCT
+%wor:	the 312562_312662 uh 312923_313363 doctor 313664_314244 bunny 314304_314605 took 314765_315045 the 315145_315225 boy 315325_315566 bunny 315706_316046 with 316487_316867 her 316887_317364 .
+@G:	B3
+*EXA:	okay now tell me this story . 323335_323514
+%mor:	intj|okay adv|now verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|this-Def-Dem-Sing noun|story-Acc .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	okay now tell me this story 323335_323514 .
+*CHI:	one day there was the girl bunny . 324076_326157
+%mor:	num|one noun|day pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|girl noun|bunny .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|EXPL 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|NSUBJ 8|4|PUNCT
+%wor:	one 324076_324156 day 324156_324336 there 324436_324736 was 324756_324956 the 325036_325116 girl 325257_325537 bunny 325657_326157 .
+*CHI:	she had a wagon with a balloon on it . 326098_328759
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|wagon-Acc adp|with det|a-Ind-Art noun|balloon adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|9|CASE 9|2|OBL 10|2|PUNCT
+%wor:	she 326098_326197 had 326317_326478 a 326518_326538 wagon 326638_327018 with 327078_327238 a 327318_327338 balloon 327438_327839 on 327959_328139 it 328259_328759 .
+*CHI:	the boy bunny looked at the balloon . 330302_333183
+%mor:	det|the-Def-Art noun|boy noun|bunny verb|look-Fin-Ind-Past-S3 adp|at det|the-Def-Art noun|balloon .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	the 330302_330381 boy 330461_330641 bunny 330761_331081 looked 331902_332282 at 332342_332462 the 332523_332603 balloon 332683_333183 .
+*CHI:	and &+h the boy bunny took the balloon off . 335745_338527
+%mor:	cconj|and det|the-Def-Art noun|boy noun|bunny verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|balloon-Acc adp|off .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|5|PUNCT
+%wor:	and 335745_335885 the 336286_336386 boy 336586_336766 bunny 336866_337086 took 337186_337387 the 337467_337547 balloon 337607_337967 off 338027_338527 .
+*CHI:	and it &+f the balloon flew in the air . 340332_343332
+%mor:	cconj|and pron|it-Prs-Nom-S3 det|the-Def-Art noun|balloon verb|fly-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|air .
+%gra:	1|5|CC 2|5|NSUBJ 3|4|DET 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	and 340332_340492 it 340612_340712 the 341112_341192 balloon 341252_341672 flew 341932_342212 in 342292_342392 the 342472_342572 air 342832_343332 .
+*CHI:	the girl bunny was mad at the boy bunny . 345360_348134
+%mor:	det|the-Def-Art noun|girl noun|bunny aux|be-Fin-Ind-Past-S3-irr adj|mad-S1 adp|at det|the-Def-Art noun|boy noun|bunny .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|9|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+%wor:	the 345360_345453 girl 345593_345874 bunny 345954_346234 was 346354_346534 mad 346634_346914 at 346954_347054 the 347134_347234 boy 347334_347554 bunny 347634_348134 .
+*CHI:	there was a man holding balloons . 350735_353836
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|man verb|hold-Ger-S noun|balloon-Plur-Acc .
+%gra:	1|2|EXPL 2|6|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|5|OBJ 7|2|PUNCT
+%wor:	there 350735_351115 was 351596_351816 a 351876_351896 man 351996_352316 holding 352436_352916 balloons 353336_353836 .
+*CHI:	and the boy bunny went to buy one . 354498_357200
+%mor:	cconj|and det|the-Def-Art noun|boy noun|bunny verb|go-Fin-Ind-Past-S3-irr part|to verb|buy-Inf-S num|one .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|8|ROOT 6|7|MARK 7|5|ADVCL 8|7|OBJ 9|5|PUNCT
+%wor:	and 354498_354618 the 354678_354778 boy 355278_355478 bunny 355559_355779 went 355839_356019 to 356119_356199 buy 356279_356519 one 356700_357200 .
+*CHI:	he asked for a balloon . 360003_361564
+%mor:	pron|he-Prs-Nom-S3 verb|ask-Fin-Ind-Past-S3 adp|for det|a-Ind-Art noun|balloon .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	he 360003_360103 asked 360343_360743 for 360783_360923 a 360963_360983 balloon 361064_361564 .
+*CHI:	but he couldn't buy the balloons because they were five cents . 363966_367309
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|could-Fin-S~part|not verb|buy-Inf-S det|the-Def-Art noun|balloon-Plur-Acc sconj|because pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr num|five noun|cent-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|12|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|NUMMOD 12|5|ADVCL 13|5|PUNCT
+%wor:	but 363966_364106 he 364186_364266 couldn't 364387_364787 buy 364807_365007 the 365067_365167 balloons 365267_365668 because 365708_366028 they 366028_366168 were 366168_366288 five 366408_366749 cents 366809_367309 .
+*CHI:	and he didn't have any money . 367150_368651
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|have-Inf-S det|any-Def-Ind noun|money-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and 367150_367249 he 367289_367349 didn't 367429_367630 have 367670_367870 any 367930_368090 money 368170_368651 .
+*CHI:	the girl bunny and the boy bunny were very sad . 372098_376441
+%mor:	det|the-Def-Art noun|girl noun|bunny cconj|and det|the-Def-Art noun|boy noun|bunny aux|be-Fin-Ind-Past-P3-irr adv|very adj|sad-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|10|NSUBJ 4|7|CC 5|7|DET 6|7|COMPOUND 7|3|CONJ 8|10|COP 9|10|ADVMOD 10|10|ROOT 11|10|PUNCT
+%wor:	the 372098_372178 girl 372558_372938 bunny 373599_373879 and 374019_374120 the 374140_374240 boy 374360_374640 bunny 374740_375101 were 375221_375441 very 375481_375781 sad 375941_376441 .
+*CHI:	&-um a other bunny was walking down the path . 382949_386792
+%mor:	det|a-Ind-Art adj|other-S1 noun|bunny aux|be-Fin-Ind-Past-S3-irr verb|walk-Part-Pres-S adp|down det|the-Def-Art noun|path .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	um a other 382949_383309 bunny 383469_383789 was 384430_384710 walking 384871_385531 down 385631_385992 the 386092_386192 path 386292_386792 .
+*CHI:	and the boy bunny ask if the girl had any money to buy a balloon . 389138_393303
+%mor:	cconj|and det|the-Def-Art noun|boy noun|bunny verb|ask-Fin-Ind-Pres-S3 sconj|if det|the-Def-Art noun|girl verb|have-Fin-Ind-Past-S3-irr det|any-Def-Ind noun|money-Acc part|to verb|buy-Inf-S det|a-Ind-Art noun|balloon-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|15|ROOT 6|9|MARK 7|8|DET 8|9|NSUBJ 9|5|CCOMP 10|11|DET 11|9|OBJ 12|13|MARK 13|11|ACL 14|15|DET 15|13|OBJ 16|5|PUNCT
+%wor:	and 389138_389558 the 389578_389658 boy 389758_389939 bunny 390019_390219 ask 390339_390680 if 390880_390980 the 391060_391140 girl 391221_391421 had 391481_391621 any 391661_391821 money 391901_392142 to 392262_392342 buy 392422_392703 a 392703_392723 balloon 392803_393303 .
+*CHI:	and the girl ↫b↫bunny gave the [/] &-um the person with the balloons the money <so that> [//] &+tho so that the bunnies could have the two balloons . 395525_408103
+%mor:	cconj|and det|the-Def-Art noun|girl noun|bunny verb|give-Fin-Ind-Past-S3-irr det|the-Def-Art noun|person-Acc adp|with det|the-Def-Art noun|balloon-Plur det|the-Def-Art noun|money-Acc sconj|so sconj|that det|the-Def-Art noun|bunny-Plur aux|could-Fin-S verb|have-Inf-S det|the-Def-Art num|two noun|balloon-Plur-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|21|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|12|DET 12|5|OBJ 13|18|MARK 14|13|FIXED 15|16|DET 16|18|NSUBJ 17|18|AUX 18|5|ADVCL 19|21|DET 20|21|NUMMOD 21|18|OBJ 22|5|PUNCT
+%wor:	and 395525_395605 the 395625_395705 girl 395805_396125 bunny 397367_397588 gave 397728_398028 the 399591_399711 um 399711_399871 the 400853_400953 person 401433_401854 with 401894_402054 the 402094_402195 balloons 402295_402876 the 404178_404278 money 404358_404638 so 404778_404879 that 404939_405099 so 405159_405319 that 405319_405620 the 405780_405860 bunnies 405940_406321 could 406401_406561 have 406581_406842 the 406902_406982 two 407342_407503 balloons 407603_408103 .
+*CHI:	the boy bunny and the girl bunny were very happy . 410965_414440
+%mor:	det|the-Def-Art noun|boy noun|bunny cconj|and det|the-Def-Art noun|girl noun|bunny aux|be-Fin-Ind-Past-P3-irr adv|very adj|happy-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|10|NSUBJ 4|7|CC 5|7|DET 6|7|COMPOUND 7|3|CONJ 8|10|COP 9|10|ADVMOD 10|10|ROOT 11|10|PUNCT
+%wor:	the 410965_411045 boy 411125_411528 bunny 411970_412211 and 412332_412452 the 412452_412633 girl 412633_412834 bunny 412975_413277 were 413377_413538 very 413538_413819 happy 413940_414440 .
+@End
