@@ -1,3 +1,16 @@
-glove.6B.*.txt
-*.txt
-*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+.venv/
+
+# dataset (do not commit — download from CHILDES)
+data/raw/
+data/splits/ENNI_*.csv
+
+# model checkpoints
+results/bert_checkpoint/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
